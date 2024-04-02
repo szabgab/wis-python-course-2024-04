@@ -70,7 +70,8 @@ These slides are publicly available and will remain on the web site after the co
 ### Videos in English
 
 There are [recording of this course from 3 years ago](https://code-maven.com/programming-bootcamp-for-scientists).
-There are also [recordings from the [2023 autumn semester](https://github.com/szabgab/wis-python-bootcamp-2023-12).
+
+There are also [recordings from the 2023 autumn semester](https://github.com/szabgab/wis-python-bootcamp-2023-12).
 
 My [English-language YouTube channel](https://code-maven.com/youtube).
 
@@ -88,7 +89,7 @@ The standard language of WIS and of this course is English.
 
 However, when on one-on-one conversions I'd be happy to speak in Hebrew, Hungarian, Spanish, or Ladino.
 
-### nstallations
+### Installations
 
 There is no need to install anything up front. We'll do that during the class.
 
