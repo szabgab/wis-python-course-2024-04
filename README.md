@@ -2,6 +2,10 @@
 
 [course](https://erez.weizmann.ac.il/apx/f?p=186:30:::NO::pid,pprev:14800,14473)
 
+## Students
+
+To be listed
+
 ## Plan
 
 ### Schedule
@@ -77,29 +81,16 @@ You can watch those, but be also warned, this semester the order of the material
 Some of the material is also available in Hebrew. You can find them [on my website](https://he.code-maven.com/)
 and in my [Hebrew-language YouTube channel](https://he.code-maven.com/youtube).
 
-## Day 1.
 
-* Introduction
-* Overview:
-    * git, GitHub a VCS
-    * Python
-    * PyPI
+### Language
 
-* GitHub:
-    * BioPython.
-    * Other projects hosted on GitHub.
-    * GitHub Issues.
-    * GitHub Pages
+The standard language of WIS and of this course is English.
 
-* Install gis-scm
-* Create GitHub Pages
-* Markdown
-* Command line Git. Configure git client
+However, when on one-on-one conversions I'd be happy to speak in Hebrew, Hungarian, Spanish, or Ladino.
 
+### nstallations
 
-### Assignment
+There is no need to install anything up front. We'll do that during the class.
 
-* Create you own web site on GitHub pages
-* Open an issue on our share GitHub project with the link to that site and to the repository.
 
 
