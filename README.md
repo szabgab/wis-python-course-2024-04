@@ -66,7 +66,7 @@ and the [projects of the 2023 autumn semester](https://github.com/szabgab/wis-py
 * The project proposal is 15%.
 * The project is 35%.
 
-* The project is a requirement. Witthout that you won't get a passing grade.
+* The project is a requirement. Without that you won't get a passing grade.
 
 ### Slides
 
