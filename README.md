@@ -79,15 +79,16 @@ There are [recording of this course from 3 years ago](https://code-maven.com/pro
 
 There are also [recordings from the 2023 autumn semester](https://github.com/szabgab/wis-python-bootcamp-2023-12).
 
-My [English-language YouTube channel](https://code-maven.com/youtube).
-
 You can watch those, but be also warned, this semester the order of the material will be different.
+
+There are many more videos in my [English-language YouTube channel](https://code-maven.com/youtube).
+You are invited to check them out and to follow the channel.
 
 ### Videos in Hebrew
 
 Some of the material is also available in Hebrew. You can find them [on my website](https://he.code-maven.com/)
-and in my [Hebrew-language YouTube channel](https://he.code-maven.com/youtube).
-
+and in my [Hebrew-language YouTube channel](https://he.code-maven.com/youtube). You are invited to
+follow that channel as well.
 
 ### Language
 
@@ -97,8 +98,7 @@ However, when on one-on-one conversions I'd be happy to speak in Hebrew, Hungari
 
 ### Installations
 
-There is no need to install anything up front. We'll do that during the class.
-
+There is no need to install anything up front. We'll do that during the lectures.
 
 ## Day 1
 
@@ -108,6 +108,7 @@ There is no need to install anything up front. We'll do that during the class.
 * [Day 1 part 2](https://youtu.be/xFOlDv6o-NQ)
 * [Day 1 part 3](https://youtu.be/lqUQit7PtDM)
 
+### Notes
 
 * Overview:
     * git, GitHub a VCS
