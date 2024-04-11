@@ -94,4 +94,32 @@ However, when on one-on-one conversions I'd be happy to speak in Hebrew, Hungari
 There is no need to install anything up front. We'll do that during the class.
 
 
+## Day 1
+
+* Overview:
+    * git, GitHub a VCS
+    * Python
+    * PyPI
+
+* GitHub:
+    * BioPython.
+    * Other projects hosted on GitHub.
+    * GitHub Issues.
+    * GitHub Pages
+
+* Install gis-scm
+* Instal VS Code
+* Create GitHub Pages
+* Markdown
+* Command line Git.
+* Configure git client
+* Generate ssh private key and add it to your GitHub Account.
+
+
+### Assignment
+
+* Create your own GitHub
+* Create you own web site on GitHub pages
+* Open an issue on our shared GitHub project with the link to that site and to the repository.
+
 
