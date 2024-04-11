@@ -1,4 +1,4 @@
-# WIS Python programming course started on 2024.04
+# WIS Python programming course started in 2024.04
 
 [course](https://erez.weizmann.ac.il/apx/f?p=186:30:::NO::pid,pprev:14800,14473)
 
