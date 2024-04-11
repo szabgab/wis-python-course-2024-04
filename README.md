@@ -123,10 +123,26 @@ There is no need to install anything up front. We'll do that during the class.
 * Markdown and [GitHub Flavored Markdown](https://github.github.com/gfm/)
 * Command line Git.
 * Configure git client
+
+```
+git config --global user.email your@mail.address.com
+git config --global user.name "Your Name"
+```
+
+Git commands:
+
+```
+git clone ...
+git status
+git add
+git commit -m "some explanation"
+git push
+```
+
 * Generate ssh private key and add it to your GitHub Account.
 
 ```
-ssh-keygen
+ssh-keygen                 (just press ENTER several times accepting all the defaults)
 cat ~/.ssh/....pub
 ```
 
@@ -136,6 +152,8 @@ cat ~/.ssh/....pub
 pwd               print working directory
 cd  /c/Users      change directory
 ```
+
+In the File Explorer click on "view" and then mark the check-boxes: "File name extensions" and "Hidden items"
 
 ### Assignment (day 1)
 
