@@ -6,8 +6,9 @@
 
 | Home page | Repo | Project | Status |
 | --------- | ---- | ------- | ------ |
-| [Meir Sylman](https://meirsylman.github.io/)       | [repo](https://github.com/MeirSylman/MeirSylman.github.io)  |  | |
-| [Omer Zachar](https://omerzachar.github.io/)       | [repo](https://github.com/OmerZachar/omerzachar.github.io)  |  | |
+| [Meir Sylman](https://meirsylman.github.io/)       | [repo](https://github.com/MeirSylman/MeirSylman.github.io)   |  | |
+| [Omer Zachar](https://omerzachar.github.io/)       | [repo](https://github.com/OmerZachar/omerzachar.github.io)   |  | |
+| [Shahar Garin](https://shahargarin.github.io/)     | [repo](https://github.com/ShaharGarin/shahargarin.github.io) |  | |
 
 
 ## Plan
