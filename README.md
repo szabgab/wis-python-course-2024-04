@@ -4,7 +4,11 @@
 
 ## Students
 
-To be listed
+| Home page | Repo | Project | Status |
+| --------- | ---- | ------- | ------ |
+| [Meir Sylman](https://meirsylman.github.io/)       | [repo](https://github.com/MeirSylman/MeirSylman.github.io)  |  | |
+| [Omer Zachar](https://omerzachar.github.io/)       | [repo](https://github.com/OmerZachar/omerzachar.github.io)  |  | |
+
 
 ## Plan
 
