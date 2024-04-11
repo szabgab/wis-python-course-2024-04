@@ -98,28 +98,50 @@ There is no need to install anything up front. We'll do that during the class.
 
 * Overview:
     * git, GitHub a VCS
-    * Python
-    * PyPI
+    * [Python](https://www.python.org/) - the [source code of Python](https://github.com/python/cpython)
+    * [PyPI](https://pypi.org/)
+
+* [Duck Duck Go](https://duckduckgo.com/) search engine.
 
 * GitHub:
-    * BioPython.
+    * [BioPython](https://biopython.org/) - [source code](https://github.com/biopython/biopython) - [the source of their web site](https://github.com/biopython/biopython.github.io) - the [pull request fixing typo](https://github.com/biopython/biopython.github.io/pulls?q=is%3Apr+author%3Aszabgab)
     * Other projects hosted on GitHub.
     * GitHub Issues.
     * GitHub Pages
 
-* Install gis-scm
-* Instal VS Code
+* The [cm-demo GitHub user]()
+    * [Repository of GitHub pages](https://github.com/cm-demo/cm-demo.github.io/) (it will be renamed later)
+    * [The web site](https://cm-demo.github.io/)
+
+* [Static Site Generators](https://jamstack.org/generators/)
+    * GitHub Pages default to use [Jekyll](https://jekyllrb.com/) but you could switch to something else.
+
+* Install [gis-scm](https://git-scm.com/)
+    * Don't forget to set the default editor to Notepad or some other simple one. Don't keep vim.
+* Instal [VS Code](https://code.visualstudio.com/)
 * Create GitHub Pages
-* Markdown
+* Markdown and [GitHub Flavored Markdown](https://github.github.com/gfm/)
 * Command line Git.
 * Configure git client
 * Generate ssh private key and add it to your GitHub Account.
 
+```
+ssh-keygen
+cat ~/.ssh/....pub
+```
 
-### Assignment
+* (git) bash commands
+
+```
+pwd               print working directory
+cd  /c/Users      change directory
+```
+
+### Assignment (day 1)
 
 * Create your own GitHub
 * Create you own web site on GitHub pages
 * Open an issue on our shared GitHub project with the link to that site and to the repository.
 
+* Dead-line 2024.04.15 24:00
 
