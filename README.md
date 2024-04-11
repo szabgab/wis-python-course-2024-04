@@ -100,6 +100,13 @@ There is no need to install anything up front. We'll do that during the class.
 
 ## Day 1
 
+## Videos
+
+* [Day 1 part 1](https://youtu.be/xjnTAHI_Vvg)
+* [Day 1 part 2](https://youtu.be/xFOlDv6o-NQ)
+* [Day 1 part 3](https://youtu.be/lqUQit7PtDM)
+
+
 * Overview:
     * git, GitHub a VCS
     * [Python](https://www.python.org/) - the [source code of Python](https://github.com/python/cpython)
