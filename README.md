@@ -111,6 +111,17 @@ There is no need to install anything up front. We'll do that during the lectures
 * [Day 1 part 2](https://youtu.be/xFOlDv6o-NQ)
 * [Day 1 part 3](https://youtu.be/lqUQit7PtDM)
 
+## Timestamps
+
+03:24 course overview: assignments, project, etc.
+11:25 version control systems: Git and GitHub
+14:24 change history
+19:58 python: open-source programming language
+25:35 python extensions: libraries, BioPython, pypi.org
+28:29 issues
+35:00 pull requests
+40:40 GitHub pages
+
 ### Notes
 
 * Overview:
