@@ -6,14 +6,14 @@
 
 | Home page | Repo | Assignments | Project | Status |
 | --------- | ---- | ----------- | ------- | ------ |
-| [Avital Rosner](https://avitalrosner.github.io/)   | [repo](https://github.com/Avitalrosner/avitalrosner.github.io) |  |  |  |
+| [Avital Rosner](https://avitalrosner.github.io/)       | [repo](https://github.com/Avitalrosner/avitalrosner.github.io) |  |  |  |
 | [Chen Davidyan Krisi](https://chendavidyan.github.io/) | [repo](https://github.com/ChenDavidyan/ChenDavidyan.github.io) |  |  |  |
-| [Meir Sylman](https://meirsylman.github.io/)       | [repo](https://github.com/MeirSylman/MeirSylman.github.io)     |  |  |  |
-| [Omer Sapir](https://omersapir.github.io/)         | [repo](https://github.com/OmerSapir/OmerSapir.github.io)       |  |  |  |
-| [Omer Zachar](https://omerzachar.github.io/)       | [repo](https://github.com/OmerZachar/omerzachar.github.io)     |  |  |  |
-| [Roi Siegelman](https://roisiegelman.github.io/)   | [repo](https://github.com/roisiegelman/roisiegelman.github.io) |  |  |  |
-| [Shahar Garin](https://shahargarin.github.io/)     | [repo](https://github.com/ShaharGarin/shahargarin.github.io)   |  |  |  |
-| [Thay Karmin](https://thaykarmin.github.io/)       | [repo](https://github.com/THAYKARMIN/THAYKARMIN.github.io)     |  |  |  |
+| [Meir Sylman](https://meirsylman.github.io/)           | [repo](https://github.com/MeirSylman/MeirSylman.github.io)     |  |  |  |
+| [Omer Sapir](https://omersapir.github.io/)             | [repo](https://github.com/OmerSapir/OmerSapir.github.io)       |  |  |  |
+| [Omer Zachar](https://omerzachar.github.io/)           | [repo](https://github.com/OmerZachar/omerzachar.github.io)     |  |  |  |
+| [Roi Siegelman](https://roisiegelman.github.io/)       | [repo](https://github.com/roisiegelman/roisiegelman.github.io) |  |  |  |
+| [Shahar Garin](https://shahargarin.github.io/)         | [repo](https://github.com/ShaharGarin/shahargarin.github.io)   |  |  |  |
+| [Thay Karmin](https://thaykarmin.github.io/)           | [repo](https://github.com/THAYKARMIN/THAYKARMIN.github.io)     |  |  |  |
 
 
 ## Plan
