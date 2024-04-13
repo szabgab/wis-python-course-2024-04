@@ -108,19 +108,27 @@ There is no need to install anything up front. We'll do that during the lectures
 ## Videos
 
 * [Day 1 part 1](https://youtu.be/xjnTAHI_Vvg)
+    * 03:24 course overview: assignments, project, etc.
+    * 11:25 version control systems: Git and GitHub
+    * 14:24 change history
+    * 19:58 python: open-source programming language
+    * 25:35 python extensions: libraries, BioPython, pypi.org
+    * 28:29 issues
+    * 35:00 pull requests
+    * 40:40 GitHub pages
+
 * [Day 1 part 2](https://youtu.be/xFOlDv6o-NQ)
 * [Day 1 part 3](https://youtu.be/lqUQit7PtDM)
+    * 06:25 - installing Git
+    * 13:15 - open Git on your computer
+    * 18:42 - cloning a repository to your local disk using SSH keys
+    * 27:23 - working on your repository on your local disk: add a new file
+    * 30:34 - downloading VS code editor
+    * 33:32 - edit files in vs code and commit them locally with Git
+    * 41:54 - Git push: publish your local commits to GitHub
+    * 45:08 - assignment explanation
+    * 49:01 - questions
 
-## Timestamps
-
-03:24 course overview: assignments, project, etc.
-11:25 version control systems: Git and GitHub
-14:24 change history
-19:58 python: open-source programming language
-25:35 python extensions: libraries, BioPython, pypi.org
-28:29 issues
-35:00 pull requests
-40:40 GitHub pages
 
 ### Notes
 
