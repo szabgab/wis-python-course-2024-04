@@ -16,6 +16,7 @@
 | [Roi Siegelman](https://roisiegelman.github.io/)       | [repo](https://github.com/roisiegelman/roisiegelman.github.io) |  |  |  |
 | [Shahar Garin](https://shahargarin.github.io/)         | [repo](https://github.com/ShaharGarin/shahargarin.github.io)   |  |  |  |
 | [Thay Karmin](https://thaykarmin.github.io/)           | [repo](https://github.com/THAYKARMIN/THAYKARMIN.github.io)     |  |  |  |
+| [Yael Arieli](https://yaelarieli.github.io/)           | [repo](https://github.com/yaelarieli/yaelarieli.github.io)     |  |  |  |
 | [Yuval Bernard](https://yuvalbernard.github.io/)       | [repo](https://github.com/YuvalBernard/yuvalbernard.github.io) |  |  |  |
 
 
