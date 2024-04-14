@@ -10,7 +10,7 @@
 | [Boyue Sun](https://dahaisun.github.io/)               | [repo](https://github.com/DahaiSun/DahaiSun.github.io)         |  |  |  |
 | [Chen Davidyan Krisi](https://chendavidyan.github.io/) | [repo](https://github.com/ChenDavidyan/ChenDavidyan.github.io) |  |  |  |
 | [Ekaterina Zhigileva](https://katyazhi.github.io/)     | [repo](https://github.com/katyazhi/katyazhi.github.io)         |  |  |  |
-| [Liron Hoffman](https://liroh99.github.io/) i          | [repo](https://github.com/liroh99/liroh99.github.io)           |  |  |  |
+| [Liron Hoffman](https://liroh99.github.io/)            | [repo](https://github.com/liroh99/liroh99.github.io)           |  |  |  |
 | [Mazal Faraj](https://mazalik.github.io/)              | [repo](https://github.com/Mazalik/mazalik.github.io)           |  |  |  |
 | [Meir Sylman](https://meirsylman.github.io/)           | [repo](https://github.com/MeirSylman/MeirSylman.github.io)     |  |  |  |
 | [Noy Ravensary](https://noyravensary.github.io/)       | [repo](https://github.com/NoyRavensary/NoyRavensary.github.io) |  |  |  |
