@@ -6,23 +6,23 @@
 
 | Home page | Repo | Assignments | Project | Status |
 | --------- | ---- | ----------- | ------- | ------ |
-| [Adam Liberman](https://adamliberman.github.io/)       | [repo](https://github.com/AdamLiberman/AdamLiberman.github.io) |  |  |  |
-| [Avital Rosner](https://avitalrosner.github.io/)       | [repo](https://github.com/Avitalrosner/avitalrosner.github.io) |  |  |  |
-| [Boyue Sun](https://dahaisun.github.io/)               | [repo](https://github.com/DahaiSun/DahaiSun.github.io)         |  |  |  |
-| [Chen Davidyan Krisi](https://chendavidyan.github.io/) | [repo](https://github.com/ChenDavidyan/ChenDavidyan.github.io) |  |  |  |
-| [Ekaterina Zhigileva](https://katyazhi.github.io/)     | [repo](https://github.com/katyazhi/katyazhi.github.io)         |  |  |  |
+| [Adam Liberman](https://adamliberman.github.io/)         | [repo](https://github.com/AdamLiberman/AdamLiberman.github.io)          |  |  |  |
+| [Avital Rosner](https://avitalrosner.github.io/)         | [repo](https://github.com/Avitalrosner/avitalrosner.github.io)          |  |  |  |
+| [Boyue Sun](https://dahaisun.github.io/)                 | [repo](https://github.com/DahaiSun/DahaiSun.github.io)                  |  |  |  |
+| [Chen Davidyan Krisi](https://chendavidyan.github.io/)   | [repo](https://github.com/ChenDavidyan/ChenDavidyan.github.io)          |  |  |  |
+| [Ekaterina Zhigileva](https://katyazhi.github.io/)       | [repo](https://github.com/katyazhi/katyazhi.github.io)                  |  |  |  |
 | [Hernan Rubinstein](https://hernanrubinstein.github.io/) | [repo](https://github.com/hernanRubinstein/hernanRubinstein.github.io/) |  |  |  |
-| [Liron Hoffman](https://liroh99.github.io/)            | [repo](https://github.com/liroh99/liroh99.github.io)           |  |  |  |
-| [Mazal Faraj](https://mazalik.github.io/)              | [repo](https://github.com/Mazalik/mazalik.github.io)           |  |  |  |
-| [Meir Sylman](https://meirsylman.github.io/)           | [repo](https://github.com/MeirSylman/MeirSylman.github.io)     |  |  |  |
-| [Noy Ravensary](https://noyravensary.github.io/)       | [repo](https://github.com/NoyRavensary/NoyRavensary.github.io) |  |  |  |
-| [Omer Sapir](https://omersapir.github.io/)             | [repo](https://github.com/OmerSapir/OmerSapir.github.io)       |  |  |  |
-| [Omer Zachar](https://omerzachar.github.io/)           | [repo](https://github.com/OmerZachar/omerzachar.github.io)     |  |  |  |
-| [Roi Siegelman](https://roisiegelman.github.io/)       | [repo](https://github.com/roisiegelman/roisiegelman.github.io) |  |  |  |
-| [Shahar Garin](https://shahargarin.github.io/)         | [repo](https://github.com/ShaharGarin/shahargarin.github.io)   |  |  |  |
-| [Thay Karmin](https://thaykarmin.github.io/)           | [repo](https://github.com/THAYKARMIN/THAYKARMIN.github.io)     |  |  |  |
-| [Yael Arieli](https://yaelarieli.github.io/)           | [repo](https://github.com/yaelarieli/yaelarieli.github.io)     |  |  |  |
-| [Yuval Bernard](https://yuvalbernard.github.io/)       | [repo](https://github.com/YuvalBernard/yuvalbernard.github.io) |  |  |  |
+| [Liron Hoffman](https://liroh99.github.io/)              | [repo](https://github.com/liroh99/liroh99.github.io)                    |  |  |  |
+| [Mazal Faraj](https://mazalik.github.io/)                | [repo](https://github.com/Mazalik/mazalik.github.io)                    |  |  |  |
+| [Meir Sylman](https://meirsylman.github.io/)             | [repo](https://github.com/MeirSylman/MeirSylman.github.io)              |  |  |  |
+| [Noy Ravensary](https://noyravensary.github.io/)         | [repo](https://github.com/NoyRavensary/NoyRavensary.github.io)          |  |  |  |
+| [Omer Sapir](https://omersapir.github.io/)               | [repo](https://github.com/OmerSapir/OmerSapir.github.io)                |  |  |  |
+| [Omer Zachar](https://omerzachar.github.io/)             | [repo](https://github.com/OmerZachar/omerzachar.github.io)              |  |  |  |
+| [Roi Siegelman](https://roisiegelman.github.io/)         | [repo](https://github.com/roisiegelman/roisiegelman.github.io)          |  |  |  |
+| [Shahar Garin](https://shahargarin.github.io/)           | [repo](https://github.com/ShaharGarin/shahargarin.github.io)            |  |  |  |
+| [Thay Karmin](https://thaykarmin.github.io/)             | [repo](https://github.com/THAYKARMIN/THAYKARMIN.github.io)              |  |  |  |
+| [Yael Arieli](https://yaelarieli.github.io/)             | [repo](https://github.com/yaelarieli/yaelarieli.github.io)              |  |  |  |
+| [Yuval Bernard](https://yuvalbernard.github.io/)         | [repo](https://github.com/YuvalBernard/yuvalbernard.github.io)          |  |  |  |
 
 
 ## Plan
