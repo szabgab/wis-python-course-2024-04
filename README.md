@@ -7,6 +7,7 @@
 | Home page | Repo | Assignments | Project | Status |
 | --------- | ---- | ----------- | ------- | ------ |
 | [Avital Rosner](https://avitalrosner.github.io/)       | [repo](https://github.com/Avitalrosner/avitalrosner.github.io) |  |  |  |
+| [Boyue Sun](https://dahaisun.github.io/)               | [repo](https://github.com/DahaiSun/DahaiSun.github.io)         |  |  |  |
 | [Chen Davidyan Krisi](https://chendavidyan.github.io/) | [repo](https://github.com/ChenDavidyan/ChenDavidyan.github.io) |  |  |  |
 | [Ekaterina Zhigileva](https://katyazhi.github.io/)     | [repo](https://github.com/katyazhi/katyazhi.github.io)         |  |  |  |
 | [Meir Sylman](https://meirsylman.github.io/)           | [repo](https://github.com/MeirSylman/MeirSylman.github.io)     |  |  |  |
