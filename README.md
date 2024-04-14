@@ -10,6 +10,7 @@
 | [Chen Davidyan Krisi](https://chendavidyan.github.io/) | [repo](https://github.com/ChenDavidyan/ChenDavidyan.github.io) |  |  |  |
 | [Ekaterina Zhigileva](https://katyazhi.github.io/)     | [repo](https://github.com/katyazhi/katyazhi.github.io)         |  |  |  |
 | [Meir Sylman](https://meirsylman.github.io/)           | [repo](https://github.com/MeirSylman/MeirSylman.github.io)     |  |  |  |
+| [Noy Ravensary](https://noyravensary.github.io/)       | [repo](https://github.com/NoyRavensary/NoyRavensary.github.io) |  |  |  |
 | [Omer Sapir](https://omersapir.github.io/)             | [repo](https://github.com/OmerSapir/OmerSapir.github.io)       |  |  |  |
 | [Omer Zachar](https://omerzachar.github.io/)           | [repo](https://github.com/OmerZachar/omerzachar.github.io)     |  |  |  |
 | [Roi Siegelman](https://roisiegelman.github.io/)       | [repo](https://github.com/roisiegelman/roisiegelman.github.io) |  |  |  |
