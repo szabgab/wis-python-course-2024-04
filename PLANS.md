@@ -1,6 +1,11 @@
 
 ## Day 2
 
+* Review assignment
+* How to follow a GitHub repository
+* Star a GitHub repository
+
+
 * Install [Python](https://www.python.org/).
 * Start writing Python code in VS Code.
     * Hello World
