@@ -22,6 +22,7 @@
 | [Omer Zachar](https://omerzachar.github.io/)             | [repo](https://github.com/OmerZachar/omerzachar.github.io)              |  |  |  |
 | [Roi Siegelman](https://roisiegelman.github.io/)         | [repo](https://github.com/roisiegelman/roisiegelman.github.io)          |  |  |  |
 | [Shahar Garin](https://shahargarin.github.io/)           | [repo](https://github.com/ShaharGarin/shahargarin.github.io)            |  |  |  |
+| [Shaked Levy](https://levyshaked.github.io/)             | [repo](https://github.com/LevyShaked/LevyShaked.github.io)              |  |  |  |
 | [Thay Karmin](https://thaykarmin.github.io/)             | [repo](https://github.com/THAYKARMIN/THAYKARMIN.github.io)              |  |  |  |
 | [Thea Meimoun](https://theammn.github.io/)               | [repo](https://github.com/theammn/theammn.github.io)                    |  |  |  |
 | [Yael Arieli](https://yaelarieli.github.io/)             | [repo](https://github.com/yaelarieli/yaelarieli.github.io)              |  |  |  |
