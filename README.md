@@ -11,7 +11,9 @@
 | [Avital Rosner](https://avitalrosner.github.io/)         | [repo](https://github.com/Avitalrosner/avitalrosner.github.io)          |  |  |  |
 | [Boyue Sun](https://dahaisun.github.io/)                 | [repo](https://github.com/DahaiSun/DahaiSun.github.io)                  |  |  |  |
 | [Chen Davidyan Krisi](https://chendavidyan.github.io/)   | [repo](https://github.com/ChenDavidyan/ChenDavidyan.github.io)          |  |  |  |
+| [Daniella Dayagi](https://daniellayalidayagi.github.io/) | [repo](https://github.com/DaniellaYaliDayagi/DaniellaYaliDayagi.github.io) |  |  |  |
 | [Ekaterina Zhigileva](https://katyazhi.github.io/)       | [repo](https://github.com/katyazhi/katyazhi.github.io)                  |  |  |  |
+| [Elad Wizman](https://eladwizman.github.io/)             | [repo](https://github.com/EladWizman/EladWizman.github.io)              |  |  |  |
 | [Hadar Klimovski](https://hadarklimovski.github.io/)     | [repo](https://github.com/hadarklimovski/hadarklimovski.github.io)      |  |  |  |
 | [Hernan Rubinstein](https://hernanrubinstein.github.io/) | [repo](https://github.com/hernanRubinstein/hernanRubinstein.github.io/) |  |  |  |
 | [Liron Hoffman](https://liroh99.github.io/)              | [repo](https://github.com/liroh99/liroh99.github.io)                    |  |  |  |
