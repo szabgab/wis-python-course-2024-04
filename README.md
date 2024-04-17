@@ -3,7 +3,6 @@
 [course](https://erez.weizmann.ac.il/apx/f?p=186:30:::NO::pid,pprev:14800,14473)
 
 ## Students
-<div id="students">
 
 | Home page | Repo | Assignments | Project | Status |
 | --------- | ---- | ----------- | ------- | ------ |
@@ -33,14 +32,6 @@
 | [Thea Meimoun](https://theammn.github.io/)               | [repo](https://github.com/theammn/theammn.github.io)                       |  |  |  |
 | [Yael Arieli](https://yaelarieli.github.io/)             | [repo](https://github.com/yaelarieli/yaelarieli.github.io)                 |  |  |  |
 | [Yuval Bernard](https://yuvalbernard.github.io/)         | [repo](https://github.com/YuvalBernard/yuvalbernard.github.io)             |  |  |  |
-
-![](https://github.com/AdamLiberman.png)
-</div>
-<style>
-#students img {
-    width: 200px;
-}
-</style>
 
 ## Plan
 
