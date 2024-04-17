@@ -136,6 +136,25 @@ There is no need to install anything up front. We'll do that during the lectures
     * 40:40 GitHub pages
 
 * [Day 1 part 2](https://youtu.be/xFOlDv6o-NQ)
+    * 00:13 Building a website and account
+    * 07:24 Create new repository
+    * 09:55 Actions tab
+    * 11:17 Opening the website
+    * 12:15 Editing the website through README.md
+    * 15:30 md file format and editing
+    * 18:10 Observing commits
+    * 19:50 View page source
+    * 20:50 Adding links and figures
+    * 24:44 Creating a new page
+    * 27:40 Create a link to the new page
+    * 30:40 Designing the website via `_config.yml`
+    * 32:47 Static Site Generators (SSG) and Jekyll
+    * 38:05 Upload file and add it to the page
+    * 45:00 Use your GitHub Pages website
+    * 46:50 embed uploaded picture
+    * 50:45 Create new folder and upload picture
+    * 53:30 Delete file
+
 * [Day 1 part 3](https://youtu.be/lqUQit7PtDM)
     * 06:25 - installing Git
     * 13:15 - open Git on your computer
