@@ -24,6 +24,7 @@
 | [Omer Sapir](https://omersapir.github.io/)               | [repo](https://github.com/OmerSapir/OmerSapir.github.io)                   |  |  |  |
 | [Omer Zachar](https://omerzachar.github.io/)             | [repo](https://github.com/OmerZachar/omerzachar.github.io)                 |  |  |  |
 | [Peleg Schneider](https://peleg555.github.io/)           | [repo](https://github.com/peleg555/peleg555.github.io)                     |  |  |  |
+| [Rebecca Bornstein](https://rebka1989.github.io/)        | [repo](https://github.com/rebka1989/rebka1989.github.io)                   |  |  |  |
 | [Roi Siegelman](https://roisiegelman.github.io/)         | [repo](https://github.com/roisiegelman/roisiegelman.github.io)             |  |  |  |
 | [Sameeha Mittwali](https://sameeham.github.io/)          | [repo](https://github.com/Sameeham/sameeham.github.io)                     |  |  |  |
 | [Shahar Garin](https://shahargarin.github.io/)           | [repo](https://github.com/ShaharGarin/shahargarin.github.io)               |  |  |  |
