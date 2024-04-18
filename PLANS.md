@@ -1,7 +1,7 @@
 
 
 * Install [Python](https://www.python.org/).
-* Start writing Python code in VS Code.
+* Start writing Python code in [VS Code](https://code.visualstudio.com/).
     * Hello World
     * Welcome someone using input.
     * Add two numbers together
