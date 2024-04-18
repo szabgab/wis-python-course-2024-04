@@ -2,7 +2,7 @@
 
 * Install [Python](https://www.python.org/).
 * Start writing Python code in [VS Code](https://code.visualstudio.com/).
-    * Hello World
+    * Hello World `day02/hello_world.py`
     * Welcome someone using input.
     * Add two numbers together
 * Install Jupyter notebook, show hello world example with it.
