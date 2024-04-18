@@ -285,6 +285,8 @@ git mv
     * Add a page with some notes about this course and links to the repository.
     * Link to the repository where you are going to publish your solutions.
 
+* Setup notifications and "star" the repository.
+
 * Create a new public repository where you are going to publish all of your assignments. (It should be different from your homepage).
 * Write a Python program that is a number guessing game:
     * The computer "thinks" a about a whole number betwee 1 and 20
