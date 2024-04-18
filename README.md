@@ -237,3 +237,9 @@ In the File Explorer click on "view" and then mark the check-boxes: "File name e
 
 * Dead-line 2024.04.15 24:00
 
+
+## Day 2
+
+* Review assignment
+* How to follow a GitHub repository
+* Star a GitHub repository
