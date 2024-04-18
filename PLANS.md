@@ -3,11 +3,20 @@
 * Install [Python](https://www.python.org/).
 * Start writing Python code in [VS Code](https://code.visualstudio.com/).
     * Hello World `day02/hello_world.py`
-    * Welcome someone using input.
+    * Welcome someone using `input`.
     * Add two numbers together
+    * Multiply numbers
+    * int()
+    * float()
+    * if statement, indentation, else
+
+* Keep the repository up to date.
+git mv
+
+
+
 * Install Jupyter notebook, show hello world example with it.
 * Show .gitignore
-* Keep the repository up to date.
 
 
 

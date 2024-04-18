@@ -1,6 +1,3 @@
-# length = input("Length: ")
-# width = input("Width: ")
-
 first = input("first number: ")
 second = input("second number: ")
 sum = first + second
