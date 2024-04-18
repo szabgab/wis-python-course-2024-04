@@ -240,11 +240,62 @@ In the File Explorer click on "view" and then mark the check-boxes: "File name e
 
 ## Day 2
 
+### Videos
+
+* [Day 2 part 1](https://youtu.be/Lc2mNlDV9so)
+* [Day 2 part 2](https://youtu.be/l13AYQoA5vo)
+* [Day 2 part 3](https://youtu.be/ry8oW36kyU4)
+
+
+
 * Review assignment
 * How to follow a GitHub repository
 * Star a GitHub repository
 
 
-VS Code
-* Ctrl-P to open a file
-* highlight and press Ctrl-/  to comment out several rows
+* VS Code
+    * Ctrl-P to open a file
+    * highlight and press Ctrl-/  to comment out several rows
+
+* Install [Python](https://www.python.org/).
+* Start writing Python code in [VS Code](https://code.visualstudio.com/).
+    * Hello World `day02/hello_world.py`
+    * Welcome someone using `input`.
+    * Add two numbers together
+    * Multiply numbers
+    * int()
+    * float()
+    * if statement, indentation, else ==, !=
+    * while, break
+    * [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+
+* Keep the repository up to date.
+
+```
+git diff
+git mv
+```
+
+## Assignment
+
+* On your "home page" (the one you created last week)
+    * Link to the lab in Weizmann where you are in your rotation or where you do your research. Link to your workplace if you are not at Weizmann.
+    * Link to the home page of some of the other students in the course.
+    * Add a picture of you or an avatar to your GitHub account and also to your homepage.
+    * Add a page with some notes about this course and links to the repository.
+    * Link to the repository where you are going to publish your solutions.
+
+* Create a new public repository where you are going to publish all of your assignments. (It should be different from your homepage).
+* Write a Python program that is a number guessing game:
+    * The computer "thinks" a about a whole number betwee 1 and 20
+    * The user guesses
+    * The computer tells if the guess was too small, too big or exact.
+    * If exact the user wins, the program ends. Otherwise the user can guess again.
+    * At the end of the game print out how many guesses the user needed.
+
+* In your assignment repository create a folder called "day02" and put your submitted solution there.
+
+* Open an issue on our project with a link to the repository where you have the solution.
+
+* Dead-line 2024.04.30 24:00
+
