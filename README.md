@@ -243,3 +243,8 @@ In the File Explorer click on "view" and then mark the check-boxes: "File name e
 * Review assignment
 * How to follow a GitHub repository
 * Star a GitHub repository
+
+
+VS Code
+* Ctrl-P to open a file
+* highlight and press Ctrl-/  to comment out several rows
