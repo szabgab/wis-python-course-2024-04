@@ -32,7 +32,7 @@
 | [Thay Karmin](https://thaykarmin.github.io/)             | [repo](https://github.com/THAYKARMIN/THAYKARMIN.github.io)                 |  |  |  |
 | [Thea Meimoun](https://theammn.github.io/)               | [repo](https://github.com/theammn/theammn.github.io)                       |  |  |  |
 | [Yael Arieli](https://yaelarieli.github.io/)             | [repo](https://github.com/yaelarieli/yaelarieli.github.io)                 |  |  |  |
-| [Yuval Bernard](https://yuvalbernard.github.io/)         | [repo](https://github.com/YuvalBernard/yuvalbernard.github.io)             |  |  |  |
+| [Yuval Bernard](https://yuvalbernard.github.io/)         | [repo](https://github.com/YuvalBernard/yuvalbernard.github.io)             | [solutions](https://github.com/YuvalBernard/weizmann-python-assignments) |  |  |
 
 ## Plan
 
