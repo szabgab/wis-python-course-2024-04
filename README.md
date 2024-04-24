@@ -9,6 +9,7 @@
 | [Adam Liberman](https://adamliberman.github.io/)         | [repo](https://github.com/AdamLiberman/AdamLiberman.github.io)             |  |  |  |
 | [Ana Mejia Fleisacher](https://anitamf.github.io/)       | [repo](https://github.com/AnitaMF/AnitaMF.github.io)                       |  |  |  |
 | [Avital Rosner](https://avitalrosner.github.io/)         | [repo](https://github.com/Avitalrosner/avitalrosner.github.io)             |  |  |  |
+| [Boaz Yaari](https://boaz-y.github.io/)                  | [repo](https://github.com/Boaz-Y/Boaz-Y.github.io)                         |  |  |  |
 | [Boyue Sun](https://dahaisun.github.io/)                 | [repo](https://github.com/DahaiSun/DahaiSun.github.io)                     |  |  |  |
 | [Chen Davidyan Krisi](https://chendavidyan.github.io/)   | [repo](https://github.com/ChenDavidyan/ChenDavidyan.github.io)             |  |  |  |
 | [Daniella Dayagi](https://daniellayalidayagi.github.io/) | [repo](https://github.com/DaniellaYaliDayagi/DaniellaYaliDayagi.github.io) |  |  |  |
