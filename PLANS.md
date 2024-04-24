@@ -1,5 +1,9 @@
 
 
+* Install and use black for code formatting
+* create program called random.py and have it also import random
+
+
 
 * Install Jupyter notebook, show hello world example with it.
 * Show .gitignore

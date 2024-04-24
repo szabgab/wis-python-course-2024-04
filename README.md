@@ -127,7 +127,7 @@ There is no need to install anything up front. We'll do that during the lectures
 
 ## Videos
 
-* [Day 1 part 1](https://youtu.be/xjnTAHI_Vvg)
+* [Day 1 part 1](https://youtu.be/xjnTAHI_Vvg) - About GitHub and programming
     * 03:24 course overview: assignments, project, etc.
     * 11:25 version control systems: Git and GitHub
     * 14:24 change history
@@ -137,7 +137,7 @@ There is no need to install anything up front. We'll do that during the lectures
     * 35:00 pull requests
     * 40:40 GitHub pages
 
-* [Day 1 part 2](https://youtu.be/xFOlDv6o-NQ)
+* [Day 1 part 2](https://youtu.be/xFOlDv6o-NQ) - GitHub pages via the GitHub UI
     * 00:13 Building a website and account
     * 07:24 Create new repository
     * 09:55 Actions tab
@@ -157,7 +157,7 @@ There is no need to install anything up front. We'll do that during the lectures
     * 50:45 Create new folder and upload picture
     * 53:30 Delete file
 
-* [Day 1 part 3](https://youtu.be/lqUQit7PtDM)
+* [Day 1 part 3](https://youtu.be/lqUQit7PtDM) - Installing git on Windows, Setup, simple use; Installing VS Code
     * 06:25 - installing Git
     * 13:15 - open Git on your computer
     * 18:42 - cloning a repository to your local disk using SSH keys
@@ -193,7 +193,7 @@ There is no need to install anything up front. We'll do that during the lectures
 
 * Install [gis-scm](https://git-scm.com/)
     * Don't forget to set the default editor to Notepad or some other simple one. Don't keep vim.
-* Instal [VS Code](https://code.visualstudio.com/)
+* Install [VS Code](https://code.visualstudio.com/)
 * Create GitHub Pages
 * Markdown and [GitHub Flavored Markdown](https://github.github.com/gfm/)
 * Command line Git.
@@ -243,9 +243,39 @@ In the File Explorer click on "view" and then mark the check-boxes: "File name e
 
 ### Videos
 
-* [Day 2 part 1](https://youtu.be/Lc2mNlDV9so)
-* [Day 2 part 2](https://youtu.be/l13AYQoA5vo)
-* [Day 2 part 3](https://youtu.be/ry8oW36kyU4)
+* [Day 2 part 1](https://youtu.be/Lc2mNlDV9so) - Installing VS Code and Python on Windows
+* [Day 2 part 2](https://youtu.be/l13AYQoA5vo) - Getting input from STDIN
+* git diff
+* git commit
+* git push
+* git pull
+* Python variables
+* strings in double quotes
+* embedding variables in f-strings
+* format
+* comments
+* input
+* Add two numbers together
+* int
+* float
+* [Day 2 part 3](https://youtu.be/ry8oW36kyU4) - flow control: if, while, and break
+* `git mv`
+* `if` condition and `else`
+* Check for equality `==`
+* indentation
+* 'lower()'
+* `capitalize`
+* built-in method,  parentheses `()`
+* `while`
+* `break`
+* `Ctrl-C`
+* 35:28 How to avoid the `break` (actualy the earlier solution using `break` is better)
+* 41:15 DRY
+* 45:00 random
+* docs.python.org
+* `random.random`  `random.randrange`
+* 56:40 why did you use `git mv` ?
+
 
 
 
