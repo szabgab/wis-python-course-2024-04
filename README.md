@@ -9,7 +9,7 @@
 | [Adam Liberman](https://adamliberman.github.io/)         | [repo](https://github.com/AdamLiberman/AdamLiberman.github.io)             | [solutions](https://github.com/AdamLiberman/python_course_assignments) |  |  |
 | [Ana Mejia Fleisacher](https://anitamf.github.io/)       | [repo](https://github.com/AnitaMF/AnitaMF.github.io)                       | [solutions](https://github.com/AnitaMF/python_assignments.github.io) |  |  |
 | [Avital Rosner](https://avitalrosner.github.io/)         | [repo](https://github.com/Avitalrosner/avitalrosner.github.io)             | [solutions](https://github.com/Avitalrosner/Python_course_Assignments) |  |  |
-| [Boaz Yaari](https://boaz-y.github.io/)                  | [repo](https://github.com/Boaz-Y/Boaz-Y.github.io)                         |  |  |  |
+| [Boaz Yaari](https://boaz-y.github.io/)                  | [repo](https://github.com/Boaz-Y/Boaz-Y.github.io)                         | [solutions](https://github.com/Boaz-Y/Solutions) |  |  |
 | [Boyue Sun](https://dahaisun.github.io/)                 | [repo](https://github.com/DahaiSun/DahaiSun.github.io)                     | [solutions](https://github.com/DahaiSun/wis_python_course_assignments) |  |  |
 | [Chen Davidyan Krisi](https://chendavidyan.github.io/)   | [repo](https://github.com/ChenDavidyan/ChenDavidyan.github.io)             |  |  |  |
 | [Daniella Dayagi](https://daniellayalidayagi.github.io/) | [repo](https://github.com/DaniellaYaliDayagi/DaniellaYaliDayagi.github.io) |  |  |  |
