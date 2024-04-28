@@ -244,6 +244,16 @@ In the File Explorer click on "view" and then mark the check-boxes: "File name e
 ### Videos
 
 * [Day 2 part 1](https://youtu.be/Lc2mNlDV9so) - Installing VS Code and Python on Windows
+    * 00:00 - Review previous assignment
+    * 03:49 - Following and staring a GitHub repository
+    * 10:10 - Editors for running Python
+    * 16:00 - Installing VS Code
+    * 18:04 - Opening a folder/file on VS Code
+    * 28:25 - Creating a Python file
+    * 32:04 - Running a Python program
+    * 36:17 - Installing Python
+    * 42:06 - Printing Hello world
+    * 43:37 - Questions
 * [Day 2 part 2](https://youtu.be/l13AYQoA5vo) - Getting input from STDIN
     * git diff
     * git commit
