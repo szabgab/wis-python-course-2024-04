@@ -7,18 +7,18 @@
 | Home page | Repo | Assignments | Project | Status |
 | --------- | ---- | ----------- | ------- | ------ |
 | [Adam Liberman](https://adamliberman.github.io/)         | [repo](https://github.com/AdamLiberman/AdamLiberman.github.io)             | [solutions](https://github.com/AdamLiberman/python_course_assignments) |  |  |
-| [Ana Mejia Fleisacher](https://anitamf.github.io/)       | [repo](https://github.com/AnitaMF/AnitaMF.github.io)                       |  |  |  |
-| [Avital Rosner](https://avitalrosner.github.io/)         | [repo](https://github.com/Avitalrosner/avitalrosner.github.io)             |  |  |  |
+| [Ana Mejia Fleisacher](https://anitamf.github.io/)       | [repo](https://github.com/AnitaMF/AnitaMF.github.io)                       | [solutions](https://github.com/AnitaMF/python_assignments.github.io) |  |  |
+| [Avital Rosner](https://avitalrosner.github.io/)         | [repo](https://github.com/Avitalrosner/avitalrosner.github.io)             | [solutions](https://github.com/Avitalrosner/Python-course---Assignments-) |  |  |
 | [Boaz Yaari](https://boaz-y.github.io/)                  | [repo](https://github.com/Boaz-Y/Boaz-Y.github.io)                         |  |  |  |
 | [Boyue Sun](https://dahaisun.github.io/)                 | [repo](https://github.com/DahaiSun/DahaiSun.github.io)                     | [solutions](https://github.com/DahaiSun/wis_python_course_assignments) |  |  |
 | [Chen Davidyan Krisi](https://chendavidyan.github.io/)   | [repo](https://github.com/ChenDavidyan/ChenDavidyan.github.io)             |  |  |  |
 | [Daniella Dayagi](https://daniellayalidayagi.github.io/) | [repo](https://github.com/DaniellaYaliDayagi/DaniellaYaliDayagi.github.io) |  |  |  |
 | [Ekaterina Zhigileva](https://katyazhi.github.io/)       | [repo](https://github.com/katyazhi/katyazhi.github.io)                     | [solutions](https://github.com/katyazhi/solutions) |  |  |
 | [Elad Wizman](https://eladwizman.github.io/)             | [repo](https://github.com/EladWizman/EladWizman.github.io)                 |  |  |  |
-| [Hadar Klimovski](https://hadarklimovski.github.io/)     | [repo](https://github.com/hadarklimovski/hadarklimovski.github.io)         |  |  |  |
+| [Hadar Klimovski](https://hadarklimovski.github.io/)     | [repo](https://github.com/hadarklimovski/hadarklimovski.github.io)         | [solutions](https://github.com/HadarKlimovski/HadarsAssignments) |  |  |
 | [Hernan Rubinstein](https://hernanrubinstein.github.io/) | [repo](https://github.com/hernanRubinstein/hernanRubinstein.github.io/)    |  |  |  |
 | [Liron Hoffman](https://liroh99.github.io/)              | [repo](https://github.com/liroh99/liroh99.github.io)                       | [solutions](https://github.com/liroh99/Assignments) |  |  |
-| [Maher Salhab](https://mahers7.github.io/)               | [repo](https://github.com/Mahers7/Mahers7.github.io)                       |  |  |  |
+| [Maher Salhab](https://mahers7.github.io/)               | [repo](https://github.com/Mahers7/Mahers7.github.io)                       | [solutions](https://github.com/Mahers7/Python_assignments) |  |  |
 | [Mazal Faraj](https://mazalik.github.io/)                | [repo](https://github.com/Mazalik/mazalik.github.io)                       |  |  |  |
 | [Meir Sylman](https://meirsylman.github.io/)             | [repo](https://github.com/MeirSylman/MeirSylman.github.io)                 |  |  |  |
 | [Noy Ravensary](https://noyravensary.github.io/)         | [repo](https://github.com/NoyRavensary/NoyRavensary.github.io)             | [solutions](https://github.com/NoyRavensary/Python-Course-Assignments) |  |  |
@@ -320,7 +320,7 @@ git mv
 
 * Create a new public repository where you are going to publish all of your assignments. (It should be different from your homepage).
 * Write a Python program that is a number guessing game:
-    * The computer "thinks" a about a whole number betwee 1 and 20
+    * The computer "thinks" a about a whole number between 1 and 20
     * The user guesses
     * The computer tells if the guess was too small, too big or exact.
     * If exact the user wins, the program ends. Otherwise the user can guess again.
