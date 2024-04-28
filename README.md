@@ -245,36 +245,36 @@ In the File Explorer click on "view" and then mark the check-boxes: "File name e
 
 * [Day 2 part 1](https://youtu.be/Lc2mNlDV9so) - Installing VS Code and Python on Windows
 * [Day 2 part 2](https://youtu.be/l13AYQoA5vo) - Getting input from STDIN
-* git diff
-* git commit
-* git push
-* git pull
-* Python variables
-* strings in double quotes
-* embedding variables in f-strings
-* format
-* comments
-* input
-* Add two numbers together
-* int
-* float
+    * git diff
+    * git commit
+    * git push
+    * git pull
+    * Python variables
+    * strings in double quotes
+    * embedding variables in f-strings
+    * format
+    * comments
+    * input
+    * Add two numbers together
+    * int
+    * float
 * [Day 2 part 3](https://youtu.be/ry8oW36kyU4) - flow control: if, while, and break
-* `git mv`
-* `if` condition and `else`
-* Check for equality `==`
-* indentation
-* 'lower()'
-* `capitalize`
-* built-in method,  parentheses `()`
-* `while`
-* `break`
-* `Ctrl-C`
-* 35:28 How to avoid the `break` (actualy the earlier solution using `break` is better)
-* 41:15 DRY
-* 45:00 random
-* docs.python.org
-* `random.random`  `random.randrange`
-* 56:40 why did you use `git mv` ?
+    * `git mv`
+    * `if` condition and `else`
+    * Check for equality `==`
+    * indentation
+    * 'lower()'
+    * `capitalize`
+    * built-in method,  parentheses `()`
+    * `while`
+    * `break`
+    * `Ctrl-C`
+    * 35:28 How to avoid the `break` (actualy the earlier solution using `break` is better)
+    * 41:15 DRY
+    * 45:00 random
+    * docs.python.org
+    * `random.random`  `random.randrange`
+    * 56:40 why did you use `git mv` ?
 
 
 
