@@ -19,16 +19,16 @@
 | [Hernan Rubinstein](https://hernanrubinstein.github.io/) | [repo](https://github.com/hernanRubinstein/hernanRubinstein.github.io/)    |  |  |  |
 | [Liron Hoffman](https://liroh99.github.io/)              | [repo](https://github.com/liroh99/liroh99.github.io)                       | [solutions](https://github.com/liroh99/Assignments)                      |  |  |
 | [Maher Salhab](https://mahers7.github.io/)               | [repo](https://github.com/Mahers7/Mahers7.github.io)                       | [solutions](https://github.com/Mahers7/Python_assignments)               |  |  |
-| [Mazal Faraj](https://mazalik.github.io/)                | [repo](https://github.com/Mazalik/mazalik.github.io)                       |  |  |  |
+| [Mazal Faraj](https://mazalik.github.io/)                | [repo](https://github.com/Mazalik/mazalik.github.io)                       | [solutions](https://github.com/Mazalik/python_course_sol)                |  |  |
 | [Meir Sylman](https://meirsylman.github.io/)             | [repo](https://github.com/MeirSylman/MeirSylman.github.io)                 |  |  |  |
 | [Noy Ravensary](https://noyravensary.github.io/)         | [repo](https://github.com/NoyRavensary/NoyRavensary.github.io)             | [solutions](https://github.com/NoyRavensary/Python-Course-Assignments)   |  |  |
 | [Omer Sapir](https://omersapir.github.io/)               | [repo](https://github.com/OmerSapir/OmerSapir.github.io)                   | [solutions](https://github.com/OmerSapir/Python-course-assignments)      |  |  |
-| [Omer Zachar](https://omerzachar.github.io/)             | [repo](https://github.com/OmerZachar/omerzachar.github.io)                 |  |  |  |
+| [Omer Zachar](https://omerzachar.github.io/)             | [repo](https://github.com/OmerZachar/omerzachar.github.io)                 | [solutions](https://github.com/OmerZachar/projects)                      |  |  |
 | [Peleg Schneider](https://peleg555.github.io/)           | [repo](https://github.com/peleg555/peleg555.github.io)                     |  |  |  |
 | [Rebecca Bornstein](https://rebka1989.github.io/)        | [repo](https://github.com/rebka1989/rebka1989.github.io)                   |  |  |  |
 | [Roi Siegelman](https://roisiegelman.github.io/)         | [repo](https://github.com/roisiegelman/roisiegelman.github.io)             | [solutions](https://github.com/roisiegelman/roisassignmets.github.io)    |  |  |
 | [Sameeha Mittwali](https://sameeham.github.io/)          | [repo](https://github.com/Sameeham/sameeham.github.io)                     |  |  |  |
-| [Shahar Garin](https://shahargarin.github.io/)           | [repo](https://github.com/ShaharGarin/shahargarin.github.io)               |  |  |  |
+| [Shahar Garin](https://shahargarin.github.io/)           | [repo](https://github.com/ShaharGarin/shahargarin.github.io)               | [solutions](https://github.com/ShaharGarin/shahar_assignment.github.io)  |  |  |
 | [Shaked Levy](https://levyshaked.github.io/)             | [repo](https://github.com/LevyShaked/LevyShaked.github.io)                 |  |  |  |
 | [Thay Karmin](https://thaykarmin.github.io/)             | [repo](https://github.com/THAYKARMIN/THAYKARMIN.github.io)                 | [solutions](https://github.com/THAYKARMIN/assignments)                   |  |  |
 | [Thea Meimoun](https://theammn.github.io/)               | [repo](https://github.com/theammn/theammn.github.io)                       |  |  |  |
