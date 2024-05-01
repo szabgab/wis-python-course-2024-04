@@ -11,7 +11,7 @@
 | [Avital Rosner](https://avitalrosner.github.io/)         | [repo](https://github.com/Avitalrosner/avitalrosner.github.io)             | [solutions](https://github.com/Avitalrosner/Python_course_Assignments)   |  |  |
 | [Boaz Yaari](https://boaz-y.github.io/)                  | [repo](https://github.com/Boaz-Y/Boaz-Y.github.io)                         | [solutions](https://github.com/Boaz-Y/Solutions)                         |  |  |
 | [Boyue Sun](https://dahaisun.github.io/)                 | [repo](https://github.com/DahaiSun/DahaiSun.github.io)                     | [solutions](https://github.com/DahaiSun/wis_python_course_assignments)   |  |  |
-| [Chen Davidyan Krisi](https://chendavidyan.github.io/)   | [repo](https://github.com/ChenDavidyan/ChenDavidyan.github.io)             |  |  |  |
+| [Chen Davidyan Krisi](https://chendavidyan.github.io/)   | [repo](https://github.com/ChenDavidyan/ChenDavidyan.github.io)             | [solutions](https://github.com/ChenDavidyan/Python_assignments)          |  |  |
 | [Daniella Dayagi](https://daniellayalidayagi.github.io/) | [repo](https://github.com/DaniellaYaliDayagi/DaniellaYaliDayagi.github.io) |  |  |  |
 | [Ekaterina Zhigileva](https://katyazhi.github.io/)       | [repo](https://github.com/katyazhi/katyazhi.github.io)                     | [solutions](https://github.com/katyazhi/solutions)                       |  |  |
 | [Elad Wizman](https://eladwizman.github.io/)             | [repo](https://github.com/EladWizman/EladWizman.github.io)                 |  |  |  |
@@ -25,13 +25,13 @@
 | [Omer Sapir](https://omersapir.github.io/)               | [repo](https://github.com/OmerSapir/OmerSapir.github.io)                   | [solutions](https://github.com/OmerSapir/Python-course-assignments)      |  |  |
 | [Omer Zachar](https://omerzachar.github.io/)             | [repo](https://github.com/OmerZachar/omerzachar.github.io)                 | [solutions](https://github.com/OmerZachar/projects)                      |  |  |
 | [Peleg Schneider](https://peleg555.github.io/)           | [repo](https://github.com/peleg555/peleg555.github.io)                     |  |  |  |
-| [Rebecca Bornstein](https://rebka1989.github.io/)        | [repo](https://github.com/rebka1989/rebka1989.github.io)                   |  |  |  |
+| [Rebecca Bornstein](https://rebka1989.github.io/)        | [repo](https://github.com/rebka1989/rebka1989.github.io)                   | [solutions](https://github.com/rebka1989/PythonCourse)                   |  |  |
 | [Roi Siegelman](https://roisiegelman.github.io/)         | [repo](https://github.com/roisiegelman/roisiegelman.github.io)             | [solutions](https://github.com/roisiegelman/roisassignmets.github.io)    |  |  |
 | [Sameeha Mittwali](https://sameeham.github.io/)          | [repo](https://github.com/Sameeham/sameeham.github.io)                     |  |  |  |
-| [Shahar Garin](https://shahargarin.github.io/)           | [repo](https://github.com/ShaharGarin/shahargarin.github.io)               | [solutions](https://github.com/ShaharGarin/shahar_assignment.github.io)  |  |  |
+| [Shahar Garin](https://shahargarin.github.io/)           | [repo](https://github.com/ShaharGarin/shahargarin.github.io)               | [solutions](https://github.com/ShaharGarin/shahar_assignments)           |  |  |
 | [Shaked Levy](https://levyshaked.github.io/)             | [repo](https://github.com/LevyShaked/LevyShaked.github.io)                 |  |  |  |
 | [Thay Karmin](https://thaykarmin.github.io/)             | [repo](https://github.com/THAYKARMIN/THAYKARMIN.github.io)                 | [solutions](https://github.com/THAYKARMIN/assignments)                   |  |  |
-| [Thea Meimoun](https://theammn.github.io/)               | [repo](https://github.com/theammn/theammn.github.io)                       |  |  |  |
+| [Thea Meimoun](https://theammn.github.io/)               | [repo](https://github.com/theammn/theammn.github.io)                       | [solutions](https://github.com/theammn/assignments)                      |  |  |
 | [Yael Arieli](https://yaelarieli.github.io/)             | [repo](https://github.com/yaelarieli/yaelarieli.github.io)                 | [solutions](https://github.com/yaelarieli/wis-python-course-hw)          |  |  |
 | [Yuval Bernard](https://yuvalbernard.github.io/)         | [repo](https://github.com/YuvalBernard/yuvalbernard.github.io)             | [solutions](https://github.com/YuvalBernard/weizmann-python-assignments) |  |  |
 
