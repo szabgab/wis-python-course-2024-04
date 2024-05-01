@@ -20,7 +20,7 @@
 | [Liron Hoffman](https://liroh99.github.io/)              | [repo](https://github.com/liroh99/liroh99.github.io)                       | [solutions](https://github.com/liroh99/Assignments)                      |  |  |
 | [Maher Salhab](https://mahers7.github.io/)               | [repo](https://github.com/Mahers7/Mahers7.github.io)                       | [solutions](https://github.com/Mahers7/Python_assignments)               |  |  |
 | [Mazal Faraj](https://mazalik.github.io/)                | [repo](https://github.com/Mazalik/mazalik.github.io)                       | [solutions](https://github.com/Mazalik/python_course_sol)                |  |  |
-| [Meir Sylman](https://meirsylman.github.io/)             | [repo](https://github.com/MeirSylman/MeirSylman.github.io)                 |  |  |  |
+| [Meir Sylman](https://meirsylman.github.io/)             | [repo](https://github.com/MeirSylman/MeirSylman.github.io)                 | [solutions](https://github.com/MeirSylman/MyAssignments)                 |  |  |
 | [Noy Ravensary](https://noyravensary.github.io/)         | [repo](https://github.com/NoyRavensary/NoyRavensary.github.io)             | [solutions](https://github.com/NoyRavensary/Python-Course-Assignments)   |  |  |
 | [Omer Sapir](https://omersapir.github.io/)               | [repo](https://github.com/OmerSapir/OmerSapir.github.io)                   | [solutions](https://github.com/OmerSapir/Python-course-assignments)      |  |  |
 | [Omer Zachar](https://omerzachar.github.io/)             | [repo](https://github.com/OmerZachar/omerzachar.github.io)                 | [solutions](https://github.com/OmerZachar/projects)                      |  |  |
