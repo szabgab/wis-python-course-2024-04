@@ -16,7 +16,7 @@
 | [Ekaterina Zhigileva](https://katyazhi.github.io/)       | [repo](https://github.com/katyazhi/katyazhi.github.io)                     | [solutions](https://github.com/katyazhi/solutions)                       |  |  |
 | [Elad Wizman](https://eladwizman.github.io/)             | [repo](https://github.com/EladWizman/EladWizman.github.io)                 |  |  |  |
 | [Hadar Klimovski](https://hadarklimovski.github.io/)     | [repo](https://github.com/hadarklimovski/hadarklimovski.github.io)         | [solutions](https://github.com/HadarKlimovski/HadarsAssignments)         |  |  |
-| [Hernan Rubinstein](https://hernanrubinstein.github.io/) | [repo](https://github.com/hernanRubinstein/hernanRubinstein.github.io/)    |  |  |  |
+| [Hernan Rubinstein](https://hernanrubinstein.github.io/) | [repo](https://github.com/hernanRubinstein/hernanRubinstein.github.io/)    | [solutions](https://github.com/hernanRubinstein/Solutions_Python_BC)     |  |  |
 | [Liron Hoffman](https://liroh99.github.io/)              | [repo](https://github.com/liroh99/liroh99.github.io)                       | [solutions](https://github.com/liroh99/Assignments)                      |  |  |
 | [Maher Salhab](https://mahers7.github.io/)               | [repo](https://github.com/Mahers7/Mahers7.github.io)                       | [solutions](https://github.com/Mahers7/Python_assignments)               |  |  |
 | [Mazal Faraj](https://mazalik.github.io/)                | [repo](https://github.com/Mazalik/mazalik.github.io)                       | [solutions](https://github.com/Mazalik/python_course_sol)                |  |  |
