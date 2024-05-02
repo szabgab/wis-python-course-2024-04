@@ -2,7 +2,8 @@
 * [The solutions of Rebecca](https://github.com/rebka1989/PythonCourse) has a file called `.DS_Store`.
 * [The solutions of Ana]() has the `__pycache__` folder.
 
-* Install Jupyter notebook, show hello world example with it. Show `input`.
+First remove with `git rm` and then add the name to `.gitignore`.
+
 
 
 * Take the rectangle example and convert into 4 functions, including the main function.
@@ -11,6 +12,8 @@
 * write a function that given a string of digits, count how many times each digit appears; (use a list)
 * add spaces to the string and skip them in counting.
 * Read the string from a file.
+
+* Install Jupyter notebook, show hello world example with it. Show `input`.
 
 
 
