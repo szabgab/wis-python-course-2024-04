@@ -1,6 +1,6 @@
 
-def display(area):
-    print(f"The area is {area}")
+def display(data):
+    print(f"The area is {data}")
 
 def main():
     length = input("Length: ")
