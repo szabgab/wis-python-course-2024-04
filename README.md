@@ -342,3 +342,29 @@ git mv
 
 * Dead-line 2024.04.30 24:00
 
+## Day 3
+
+* [Day 3 part 1]()
+
+* Some students needed help.
+* The GitHub Actions errors of the [GitHub Pages of Mazal](https://github.com/Mazalik/mazalik.github.io).
+* Install and use [black](https://pypi.org/project/black/) for code formatting.
+beautyfy
+prettify
+code formatter
+
+```
+x= 23
+y =   47
+if x==y:
+```
+
+
+* Create program called random.py and have it also import random.
+
+
+* [Day 3 part 2]()
+
+* Discuss the `__pycache__` folder.
+
+* Show .gitignore

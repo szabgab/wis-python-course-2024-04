@@ -1,12 +1,4 @@
 
-* Some students needed help.
-* The GitHub Actions errors of the [GitHub Pages of Mazal](https://github.com/Mazalik/mazalik.github.io).
-* Install and use [black](https://pypi.org/project/black/) for code formatting.
-
-* Create program called random.py and have it also import random.
-* Show the `__pycache__` folder.
-
-* Show .gitignore
 * [The solutions of Rebecca](https://github.com/rebka1989/PythonCourse) has a file called `.DS_Store`.
 * [The solutions of Ana]() has the `__pycache__` folder.
 
