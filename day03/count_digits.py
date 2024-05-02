@@ -4,16 +4,20 @@ def count_digits(text):
     # print(text)
     for ch in text:
         # print(ch)
-        counter[int(ch)] += 1
+        index = int(ch)
+        counter[index] += 1
     return counter
+
+def display(digit_counter):
+    #print(digits)
+    for digit in range(0, 10):
+        print(digit, digit_counter[digit])
 
 def main():
     text = "12341119"
     digit_counter = count_digits(text)
 
-    #print(digits)
-    for digit in range(0, 10):
-        print(digit, digit_counter[digit])
-
+    display(digit_counter)
 
 main()
+
