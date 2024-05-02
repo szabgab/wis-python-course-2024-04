@@ -4,7 +4,9 @@ def count_digits(text):
     # print(text)
     for ch in text:
         # print(ch)
-        if ch == " ":
+        # if ch == " ":
+        #     continue
+        if not ch.isnumeric():
             continue
         index = int(ch)
         counter[index] += 1
@@ -16,7 +18,7 @@ def display(digit_counter):
         print(digit, digit_counter[digit])
 
 def main():
-    text = "1234 1119"
+    text = "12=34 1119"
     digit_counter = count_digits(text)
 
     display(digit_counter)
