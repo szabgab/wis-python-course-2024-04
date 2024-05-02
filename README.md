@@ -344,44 +344,26 @@ git mv
 
 ## Day 3
 
-* [Day 3 part 1](https://youtu.be/0JVKE-Lc4Hs)
-
-* Some students needed help.
-* The GitHub Actions errors of the [GitHub Pages of Mazal](https://github.com/Mazalik/mazalik.github.io).
-* Install and use [black](https://pypi.org/project/black/) for code formatting.
-beautyfy
-prettify
-code formatter
-
-```
-x= 23
-y =   47
-if x==y:
-```
-
-
-* Create program called random.py and have it also import random.
-
+* [Day 3 part 1](https://youtu.be/0JVKE-Lc4Hs) - Git, code-formatting, random.py
+    * Some students needed help.
+    * The GitHub Actions errors of the [GitHub Pages of Mazal](https://github.com/Mazalik/mazalik.github.io).
+    * Install and use [black](https://pypi.org/project/black/) for code formatting:( beautifyer, prettifyer, code formatter)
+    * Create program called random.py and have it also import random.
 
 * [Day 3 part 2](https://youtu.be/NqHO6WsGLJ0)
-
-* Discuss the `__pycache__` folder.
-
-* Show .gitignore
-* [The solutions of Rebecca](https://github.com/rebka1989/PythonCourse) has a file called `.DS_Store`.
-* [The solutions of Ana](https://github.com/AnitaMF/python_assignments.github.io/tree/main/Class_exercises/day_02) has the `__pycache__` folder.
-
-First remove with `git rm` and then add the name to `.gitignore`.
-
+    * Discuss the `__pycache__` folder.
+    * Show .gitignore
+    * [The solutions of Rebecca](https://github.com/rebka1989/PythonCourse) has a file called `.DS_Store`.
+    * [The solutions of Ana](https://github.com/AnitaMF/python_assignments.github.io/tree/main/Class_exercises/day_02) has the `__pycache__` folder.
+    * First remove with `git rm` and then add the name to `.gitignore`.
 
 * [Day 3 part 3](https://youtu.be/fH8bPyEFv3k)
-
-* Take the rectangle example and convert into 4 functions, including the main function.
-
-* write a function that given a string of digits, count how many times each digit appears; (use a list)
-* define a list and access its elements
-* add spaces to the string and skip them in counting.
-* add other characters to the string and skip them in counting.
+    * Take the rectangle example and convert into 4 functions, including the main function.
+    * Count digits
+    * write a function that given a string of digits, count how many times each digit appears; (use a list)
+    * define a list and access its elements
+    * add spaces to the string and skip them in counting.
+    * add other characters to the string and skip them in counting.
 
 ### Assignment
 
