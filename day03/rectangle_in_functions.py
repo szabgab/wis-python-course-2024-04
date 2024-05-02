@@ -8,10 +8,15 @@ def get_input():
 
     return (received_length, received_width)
 
+def compute_area(length, width):
+    area = int(length) * int(width)
+    return area
+
 def main():
     (length, width) = get_input()
 
-    area = int(length) * int(width)
+    area = compute_area(length, width)
+
     display(area)
 
 
