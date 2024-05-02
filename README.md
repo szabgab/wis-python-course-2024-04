@@ -344,7 +344,7 @@ git mv
 
 ## Day 3
 
-* [Day 3 part 1]()
+* [Day 3 part 1](https://youtu.be/0JVKE-Lc4Hs)
 
 * Some students needed help.
 * The GitHub Actions errors of the [GitHub Pages of Mazal](https://github.com/Mazalik/mazalik.github.io).
@@ -363,8 +363,38 @@ if x==y:
 * Create program called random.py and have it also import random.
 
 
-* [Day 3 part 2]()
+* [Day 3 part 2](https://youtu.be/NqHO6WsGLJ0)
 
 * Discuss the `__pycache__` folder.
 
 * Show .gitignore
+* [The solutions of Rebecca](https://github.com/rebka1989/PythonCourse) has a file called `.DS_Store`.
+* [The solutions of Ana](https://github.com/AnitaMF/python_assignments.github.io/tree/main/Class_exercises/day_02) has the `__pycache__` folder.
+
+First remove with `git rm` and then add the name to `.gitignore`.
+
+
+* [Day 3 part 3](https://youtu.be/fH8bPyEFv3k)
+
+* Take the rectangle example and convert into 4 functions, including the main function.
+
+* write a function that given a string of digits, count how many times each digit appears; (use a list)
+* define a list and access its elements
+* add spaces to the string and skip them in counting.
+* add other characters to the string and skip them in counting.
+
+### Assignment
+
+* Visit the home pages of some of the students. Pick two students you don't know yet and who don't have issues opened yet.
+    * Open an issue on their assignment repository. (I think issues are not enabled on the repository use for the GitHub pages, so we need to open the issue in the assignments repository.)
+    * Praise the parts you like in the web site.
+    * Suggest an improvement to the web site or suggest a topic to cover on the web site more in depth. (e.g. Adam likes traveling, so ask for a few more pictures, or a favorite location.)
+    * In the issue mention me using `@szabgab` so I'll be notified.
+
+* Create a folder called "day03". Take the solution from the previous assignment, the number guessing game, copy it to the new "day03" folder and make some changes
+    * Allow the user to play several games: once one game ends ask her if she wants to play again, generate a new random number and play again.
+    * If the user enters "x" any time, exit the program.
+    * If the user enters "n" any time, leave the current game and ask if she wants to play a new game?
+    * If the user enters "s" any time, show the hidden number (cheateing).
+    * Move the code in a function called `main` and split up the code into several function that make sense.
+
