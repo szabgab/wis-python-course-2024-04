@@ -381,3 +381,6 @@ git mv
     * If the user enters "s" any time, show the hidden number (cheateing).
     * Move the code in a function called `main` and split up the code into several function that make sense.
 
+* Dead-line 2024.05.08 16:00
+
+
