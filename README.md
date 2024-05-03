@@ -374,6 +374,9 @@ git mv
     * Suggest an improvement to the web site or suggest a topic to cover on the web site more in depth. (e.g. Adam likes traveling, so ask for a few more pictures, or a favorite location.)
     * In the issue mention me using `@szabgab` so I'll be notified.
 
+* When you receive such an issue, please react to it. Once you finished imlementing whatever it suggested (if there was anything), then close it.
+
+
 * Create a folder called "day03". Take the solution from the previous assignment, the number guessing game, copy it to the new "day03" folder and make some changes
     * Allow the user to play several games: once one game ends ask her if she wants to play again, generate a new random number and play again.
     * If the user enters "x" any time, exit the program.
