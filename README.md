@@ -352,11 +352,11 @@ git mv
     * Create program called random.py and have it also import random.
 
 * [Day 3 part 2](https://youtu.be/NqHO6WsGLJ0)
-    * Discuss the `__pycache__` folder.
-    * Show .gitignore
-    * [The solutions of Rebecca](https://github.com/rebka1989/PythonCourse) has a file called `.DS_Store`.
-    * [The solutions of Ana](https://github.com/AnitaMF/python_assignments.github.io/tree/main/Class_exercises/day_02) has the `__pycache__` folder.
-    * First remove with `git rm` and then add the name to `.gitignore`.
+    * 00:01Discuss the `__pycache__` folder.
+    * 08:16 Show .gitignore
+    * 30:40 [The solutions of Rebecca](https://github.com/rebka1989/PythonCourse) has a file called `.DS_Store`.
+    * 34:14 [The solutions of Ana](https://github.com/AnitaMF/python_assignments.github.io/tree/main/Class_exercises/day_02) has the `__pycache__` folder. First remove with `git rm` and then add the name to `.gitignore`.
+    * 36:05 functions in python
 
 * [Day 3 part 3](https://youtu.be/fH8bPyEFv3k)
     * Take the rectangle example and convert into 4 functions, including the main function.
