@@ -346,13 +346,25 @@ git mv
 ## Day 3
 
 * [Day 3 part 1](https://youtu.be/0JVKE-Lc4Hs) - Git, code-formatting, random.py
+    * 00:05 Repository cloning.
+    * 03:52 Several ways of creating githab repositories and connecting them to githab
+    * 04:50 How to clone empty repository
+    * 07:25 Opening visual studio code from bash commend
+    * 13:50 additional git commands
+    * 16:53 GitHub Actions errors of the GitHub Pages of Mazal
+    * 29:00 Code formatting importance
+    * 31:00 Install and use black for code formatting: (beautifyer, prettifyer, code formatter)
+    * 34:00 Opening terminal from visual studio code
+    * 35:40 Example of how to use black
+    * 40:50 Create program called random.py and have it also import random.
+
     * Some students needed help.
     * The GitHub Actions errors of the [GitHub Pages of Mazal](https://github.com/Mazalik/mazalik.github.io).
     * Install and use [black](https://pypi.org/project/black/) for code formatting:( beautifyer, prettifyer, code formatter)
     * Create program called random.py and have it also import random.
 
 * [Day 3 part 2](https://youtu.be/NqHO6WsGLJ0)
-    * 00:01Discuss the `__pycache__` folder.
+    * 00:01 Discuss the `__pycache__` folder.
     * 08:16 Show .gitignore
     * 30:40 [The solutions of Rebecca](https://github.com/rebka1989/PythonCourse) has a file called `.DS_Store`.
     * 34:14 [The solutions of Ana](https://github.com/AnitaMF/python_assignments.github.io/tree/main/Class_exercises/day_02) has the `__pycache__` folder. First remove with `git rm` and then add the name to `.gitignore`.
