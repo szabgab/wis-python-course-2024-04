@@ -371,6 +371,14 @@ git mv
     * 36:05 functions in python
 
 * [Day 3 part 3](https://youtu.be/fH8bPyEFv3k)
+    * 01:07 write a function that given a string of digits, and count how many times each digits appear.
+    * 04:08 how and in which order python read the function
+    * 06:25 using a list and counting digits in python
+    * 11:15 how to access a specific element from a list
+    * 13:00 go back to counting digits
+    * 31:10 separate the display function
+    * 33:37 how to skip spaces from counting
+
     * Take the rectangle example and convert into 4 functions, including the main function.
     * Count digits
     * write a function that given a string of digits, count how many times each digit appears; (use a list)
