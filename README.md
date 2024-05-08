@@ -256,6 +256,7 @@ In the File Explorer click on "view" and then mark the check-boxes: "File name e
     * 42:06 - Printing Hello world
     * 43:37 - Questions
 * [Day 2 part 2](https://youtu.be/l13AYQoA5vo) - Getting input from STDIN
+    * TIMESTAMP MISSING
     * git diff
     * git commit
     * git push
@@ -403,5 +404,15 @@ git mv
     * Move the code in a function called `main` and split up the code into several function that make sense.
 
 * Dead-line 2024.05.08 16:00
+
+## Day 4
+
+* [Day 4 part 1]() -
+    * TIMESTAMP MISSING
+* [Day 4 part 2]() -
+    * TIMESTAMP MISSING
+* [Day 4 part 3]() -
+    * TIMESTAMP MISSING
+
 
 
