@@ -1,5 +1,27 @@
 
+Do not comment unnecessarily:
+
+```
+exit()  # end the program
+```
+
+Comment where things are unclear:
+
+```
+score = (round(100 * (1 - ((n - 1) / 19)) * (1 / (1 + (0.004 * t)))))
+```
+
+Explain "why" not the "what"
+
+
+* Explain what is recursion (Fibonacci, Factorial)
+* Show the problem (e.g. factorial(1000))
+* Discuss the problem with recursive calling main - in the number guessing game it is better to have two while loops.
+
 * Read the string from a file.
+
+* Count letters, count words
+
 
 * Install Jupyter notebook, show hello world example with it. Show `input`.
 
