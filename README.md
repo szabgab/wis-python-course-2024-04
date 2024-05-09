@@ -407,17 +407,18 @@ git mv
 
 ## Day 4
 
-* [Day 4 part 1]() -
+* [Day 4 part 1](https://youtu.be/PZ8pyhDZmAI) -
     * TIMESTAMP MISSING
     * Aboud comments in the code.
     * Explain what is recursion (Fibonacci, Factorial)
     * Show the problem (e.g. factorial(1000))
     * Discuss the problem with recursive calling main - in the number guessing game it is better to have two while loops.
 
-* [Day 4 part 2]() -
+* [Day 4 part 2](https://youtu.be/pGKvycezfwI) -
     * TIMESTAMP MISSING
     * Read a string from a file to count the digits
-* [Day 4 part 3]() -
+
+* [Day 4 part 3](https://youtu.be/TGBWWEqY5Tk) -
     * TIMESTAMP MISSING
     * Count letters, count words
     * [Spyder](https://www.spyder-ide.org/)
