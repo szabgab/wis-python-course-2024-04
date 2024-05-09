@@ -3,6 +3,8 @@ import sys
 def count_characters(text):
     counter = {}
     for ch in text:
+        if ch == "\n":
+            continue
         if ch not in counter:
             counter[ch] = 1
         else:

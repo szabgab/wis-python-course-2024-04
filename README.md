@@ -420,6 +420,8 @@ git mv
 * [Day 4 part 3]() -
     * TIMESTAMP MISSING
     * Count letters, count words
+    * [Spyder](https://www.spyder-ide.org/)
+    * [Jupyter Notebook](https://jupyter.org/)
 
 
 Factorial
