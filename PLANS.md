@@ -1,10 +1,4 @@
 
-
-
-
-* Count letters, count words
-
-
 * Install Jupyter notebook, show hello world example with it. Show `input`.
 
 

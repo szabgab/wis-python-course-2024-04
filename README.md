@@ -416,8 +416,10 @@ git mv
 
 * [Day 4 part 2]() -
     * TIMESTAMP MISSING
+    * Read a string from a file to count the digits
 * [Day 4 part 3]() -
     * TIMESTAMP MISSING
+    * Count letters, count words
 
 
 Factorial
@@ -466,4 +468,3 @@ score = (round(100 * (1 - ((n - 1) / 19)) * (1 / (1 + (0.004 * t)))))
 
 Explain "why" not the "what"
 
-* Read a string from a file to count the digits
