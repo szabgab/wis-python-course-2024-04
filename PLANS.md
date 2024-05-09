@@ -5,6 +5,13 @@ Do not comment unnecessarily:
 exit()  # end the program
 ```
 
+```
+counter = 0
+
+
+counter += 1 # add 1 to the counter
+```
+
 Comment where things are unclear:
 
 ```
