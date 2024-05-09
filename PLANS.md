@@ -1,7 +1,6 @@
 
 
 
-* Read the string from a file.
 
 * Count letters, count words
 
