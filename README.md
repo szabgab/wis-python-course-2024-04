@@ -418,6 +418,7 @@ git mv
     * TIMESTAMP MISSING
     * Read a string from a file to count the digits
     * sys.argv
+    * with, open, read
 
 * [Day 4 part 3](https://youtu.be/TGBWWEqY5Tk) -
     * TIMESTAMP MISSING
