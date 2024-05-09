@@ -255,8 +255,7 @@ In the File Explorer click on "view" and then mark the check-boxes: "File name e
     * 36:17 - Installing Python
     * 42:06 - Printing Hello world
     * 43:37 - Questions
-* [Day 2 part 2](https://youtu.be/l13AYQoA5vo) - Getting input from STDIN
-    * TIMESTAMP MISSING
+* [Day 2 part 2](https://youtu.be/l13AYQoA5vo) - Getting input from STDIN - TIMESTAMP MISSING
     * git diff
     * git commit
     * git push
@@ -407,21 +406,18 @@ git mv
 
 ## Day 4
 
-* [Day 4 part 1](https://youtu.be/PZ8pyhDZmAI) -
-    * TIMESTAMP MISSING
+* [Day 4 part 1](https://youtu.be/PZ8pyhDZmAI) - TIMESTAMP MISSING
     * Aboud comments in the code.
     * Explain what is recursion (Fibonacci, Factorial)
     * Show the problem (e.g. factorial(1000))
     * Discuss the problem with recursive calling main - in the number guessing game it is better to have two while loops.
 
-* [Day 4 part 2](https://youtu.be/pGKvycezfwI) -
-    * TIMESTAMP MISSING
+* [Day 4 part 2](https://youtu.be/pGKvycezfwI) - TIMESTAMP MISSING
     * Read a string from a file to count the digits
     * sys.argv
     * with, open, read
 
-* [Day 4 part 3](https://youtu.be/TGBWWEqY5Tk) -
-    * TIMESTAMP MISSING
+* [Day 4 part 3](https://youtu.be/TGBWWEqY5Tk) - TIMESTAMP MISSING
     * Count letters, count words
     * [Spyder](https://www.spyder-ide.org/)
     * [Jupyter Notebook](https://jupyter.org/)
