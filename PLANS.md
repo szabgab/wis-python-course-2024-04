@@ -5,11 +5,13 @@ Do not comment unnecessarily:
 exit()  # end the program
 ```
 
+An example when comments go bad:
+
 ```
 counter = 0
 
 
-counter += 1 # add 1 to the counter
+counter += 2 # add 1 to the counter
 ```
 
 Comment where things are unclear:
