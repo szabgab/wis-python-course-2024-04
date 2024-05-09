@@ -23,12 +23,20 @@ def main():
     result = factorial(n)
     print(f"{n} {result}")
 
+    result = non_rcursive_factorial(n)
+    print(f"{n} {result}")
 
 def factorial(n):
-    # if n == 1:
-    #     return 1
+    if n == 1:
+        return 1
     
     return n * factorial(n-1)
 
+def non_rcursive_factorial(n):
+    result = 1
+    for i in range(1, n+1):
+        result = i * result
+    
+    return result
 
 main()
