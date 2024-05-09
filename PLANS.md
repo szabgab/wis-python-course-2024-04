@@ -1,27 +1,4 @@
 
-Do not comment unnecessarily:
-
-```
-exit()  # end the program
-```
-
-An example when comments go bad:
-
-```
-counter = 0
-
-
-counter += 2 # add 1 to the counter
-```
-
-Comment where things are unclear:
-
-```
-score = (round(100 * (1 - ((n - 1) / 19)) * (1 / (1 + (0.004 * t)))))
-```
-
-Explain "why" not the "what"
-
 
 * Explain what is recursion (Fibonacci, Factorial)
 * Show the problem (e.g. factorial(1000))

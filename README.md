@@ -409,10 +409,34 @@ git mv
 
 * [Day 4 part 1]() -
     * TIMESTAMP MISSING
+    * Aboud comments in the code.
 * [Day 4 part 2]() -
     * TIMESTAMP MISSING
 * [Day 4 part 3]() -
     * TIMESTAMP MISSING
 
 
+
+Do not comment unnecessarily:
+
+```
+exit()  # end the program
+```
+
+An example when comments go bad:
+
+```
+counter = 0
+
+
+counter += 2 # add 1 to the counter
+```
+
+Comment where things are unclear:
+
+```
+score = (round(100 * (1 - ((n - 1) / 19)) * (1 / (1 + (0.004 * t)))))
+```
+
+Explain "why" not the "what"
 
