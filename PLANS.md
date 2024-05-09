@@ -1,8 +1,5 @@
 
 
-* Explain what is recursion (Fibonacci, Factorial)
-* Show the problem (e.g. factorial(1000))
-* Discuss the problem with recursive calling main - in the number guessing game it is better to have two while loops.
 
 * Read the string from a file.
 

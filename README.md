@@ -410,10 +410,21 @@ git mv
 * [Day 4 part 1]() -
     * TIMESTAMP MISSING
     * Aboud comments in the code.
+    * Explain what is recursion (Fibonacci, Factorial)
+    * Show the problem (e.g. factorial(1000))
+    * Discuss the problem with recursive calling main - in the number guessing game it is better to have two while loops.
+
 * [Day 4 part 2]() -
     * TIMESTAMP MISSING
 * [Day 4 part 3]() -
     * TIMESTAMP MISSING
+
+```
+n!  f(n) = n*(n-1)*(n-2) .... 1
+
+f(1) = 1
+f(n) = n * f(n-1)
+```
 
 
 
