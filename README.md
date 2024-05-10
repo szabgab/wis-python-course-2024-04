@@ -412,7 +412,12 @@ git mv
     * Show the problem (e.g. factorial(1000))
     * Discuss the problem with recursive calling main - in the number guessing game it is better to have two while loops.
 
-* [Day 4 part 2](https://youtu.be/pGKvycezfwI) - TIMESTAMP MISSING
+* [Day 4 part 2](https://youtu.be/pGKvycezfwI)
+    * 03:00 - Example of factorial in a nonrecursive way.
+    * 10:50 - Fibonacci example.
+    * 23:15 - Read a string from a file to count the digits
+    * 30:23 - Explain about open file.
+    * 36:35 - Explain about read options.
     * Read a string from a file to count the digits
     * sys.argv
     * with, open, read
