@@ -483,7 +483,7 @@ Explain "why" not the "what"
 
 ### Assignment (day 4)
 
-Write a program that given a filename on the command line will print
+Create a folder called `day04` and write a program that given a filename on the command line will print the following:
 
 * How many characters does the file have.
 * How many lines are in the file.
