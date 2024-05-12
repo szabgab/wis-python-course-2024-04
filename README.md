@@ -44,7 +44,7 @@
 * [Day 2](#Day-2) 2024.04.18 9:00-12:00
 * 2024.04.25 Pesach
 * [Day 3](#Day-3) 2024.05.02 9:00-12:00
-* 2024.05.09 9:00-12:00
+* [Day 4](#Day-4) 2024.05.09 9:00-12:00
 * 2024.05.16 9:00-12:00
 * 2024.05.23 9:00-12:00
 * 2024.05.30 9:00-12:00
@@ -316,7 +316,7 @@ git diff
 git mv
 ```
 
-## Assignment
+## Assignment (day 2)
 
 * On your "home page" (the one you created last week)
     * Link to the lab in Weizmann where you are in your rotation or where you do your research. Link to your workplace if you are not at Weizmann.
@@ -384,7 +384,7 @@ git mv
     * add spaces to the string and skip them in counting.
     * add other characters to the string and skip them in counting.
 
-### Assignment
+### Assignment (day 3)
 
 * Visit the home pages of some of the students. Pick two students you don't know yet and who don't have issues opened yet.
     * Open an issue on their assignment repository. (I think issues are not enabled on the repository use for the GitHub pages, so we need to open the issue in the assignments repository.)
@@ -406,9 +406,16 @@ git mv
 
 ## Day 4
 
-* [Day 4 part 1](https://youtu.be/PZ8pyhDZmAI) - TIMESTAMP MISSING
-    * Aboud comments in the code.
-    * Explain what is recursion (Fibonacci, Factorial)
+* [Day 4 part 1](https://youtu.be/PZ8pyhDZmAI) - 
+    * 02:00 About comments in the code
+    * 04:20 Example of unnecessary comments
+    * 07:00 Following up on commited comments: git blame & git show
+    * 16:22 Commit using source control in visual studio
+    * 22:30 Explain what is recursion
+    * 23:30 Recursion example: factorial function
+    * 31:30 sys library & sys.argv
+    * 46:30 Code efficiency: input() vs sys.argv()
+    * 56:50 stop condition in recursion functions
     * Show the problem (e.g. factorial(1000))
     * Discuss the problem with recursive calling main - in the number guessing game it is better to have two while loops.
 
@@ -473,4 +480,18 @@ score = (round(100 * (1 - ((n - 1) / 19)) * (1 / (1 + (0.004 * t)))))
 ```
 
 Explain "why" not the "what"
+
+### Assignment (day 4)
+
+Write a program that given a filename on the command line will print
+
+* How many characters does the file have.
+* How many lines are in the file.
+* How many words are in the file. (For our purpose you can assume that any two things separated by spaces are separate words.)
+
+```
+python count.py FILENAME
+```
+
+* Dead-line 2024.05.15 22:00
 
