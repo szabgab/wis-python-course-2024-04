@@ -255,20 +255,22 @@ In the File Explorer click on "view" and then mark the check-boxes: "File name e
     * 36:17 - Installing Python
     * 42:06 - Printing Hello world
     * 43:37 - Questions
+
 * [Day 2 part 2](https://youtu.be/l13AYQoA5vo) - Getting input from STDIN - TIMESTAMP MISSING
-    * git diff
-    * git commit
-    * git push
-    * git pull
-    * Python variables
-    * strings in double quotes
-    * embedding variables in f-strings
-    * format
-    * comments
-    * input
-    * Add two numbers together
-    * int
-    * float
+    * 01:05 - git diff
+    * 01:24 - git commit
+    * 02:21 - git push
+    * 05:40 - git pull
+    * 11:40 - Python variables
+    * 17:12 - strings in double quotes
+    * 20:11 - embedding variables in f-strings
+    * 20:20 - format
+    * 21:19 - comments
+    * 28:44 - input
+    * 31:19 - Add two numbers together
+    * 38:13 - int
+    * 40:11 - float
+
 * [Day 2 part 3](https://youtu.be/ry8oW36kyU4) - flow control: if, while, and break
     * 00:00 - `git mv`
     * 06:28 - `if` condition and `else`
@@ -430,6 +432,13 @@ git mv
     * with, open, read
 
 * [Day 4 part 3](https://youtu.be/TGBWWEqY5Tk) - TIMESTAMP MISSING
+    * 00:25 count all the characters from the file
+    * 03:40 using dictionary
+    * 09:40 displaying a content of dictionary
+    * 18:30 counting characters line by line
+    * 25:55 using .rstrip()
+    * 28:30 spyder and jupyter notebook
+    * 34:00 debugger
     * Count letters, count words
     * [Spyder](https://www.spyder-ide.org/)
     * [Jupyter Notebook](https://jupyter.org/)
