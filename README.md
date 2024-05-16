@@ -257,7 +257,7 @@ In the File Explorer click on "view" and then mark the check-boxes: "File name e
     * 42:06 - Printing Hello world
     * 43:37 - Questions
 
-* [Day 2 part 2](https://youtu.be/l13AYQoA5vo) - Getting input from STDIN - TIMESTAMP MISSING
+* [Day 2 part 2](https://youtu.be/l13AYQoA5vo) - Getting input from STDIN
     * 01:05 - git diff
     * 01:24 - git commit
     * 02:21 - git push
@@ -432,7 +432,7 @@ git mv
     * sys.argv
     * with, open, read
 
-* [Day 4 part 3](https://youtu.be/TGBWWEqY5Tk) - TIMESTAMP MISSING
+* [Day 4 part 3](https://youtu.be/TGBWWEqY5Tk)
     * 00:25 count all the characters from the file
     * 03:40 using dictionary
     * 09:40 displaying a content of dictionary
@@ -507,8 +507,9 @@ python count.py FILENAME
 
 ## Day 5
 
-* [Day 5 part 1]() -
-    * TIMESTAMP MISSING
+* [Day 5 part 1]() - TIMESTAMP MISSING
+    * about computers (hard-disk, memory, CPU (cores), GPU)
+    * using modules, import
 * [Day 5 part 2]() -
     * TIMESTAMP MISSING
 * [Day 5 part 3]() -
