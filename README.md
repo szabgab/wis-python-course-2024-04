@@ -46,7 +46,7 @@
 * 2024.04.25 Pesach
 * [Day 3](#Day-3) 2024.05.02 9:00-12:00
 * [Day 4](#Day-4) 2024.05.09 9:00-12:00
-* 2024.05.16 9:00-12:00
+* [Day 5](#Day-5) 2024.05.16 9:00-12:00
 * 2024.05.23 9:00-12:00
 * 2024.05.30 9:00-12:00
 * 2024.06.06 9:00-12:00
@@ -504,4 +504,15 @@ python count.py FILENAME
 ```
 
 * Dead-line 2024.05.15 22:00
+
+## Day 5
+
+* [Day 5 part 1]() -
+    * TIMESTAMP MISSING
+* [Day 5 part 2]() -
+    * TIMESTAMP MISSING
+* [Day 5 part 3]() -
+    * TIMESTAMP MISSING
+
+
 

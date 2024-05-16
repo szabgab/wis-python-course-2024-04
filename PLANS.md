@@ -1,15 +1,24 @@
 
+Take the fibonacci function and move to a module.
+Write tests.
+
+area function with a bug
+
+
+
+
 * Install Jupyter notebook, show hello world example with it. Show `input`.
 
 
 ### Assignment
 
 
-## Day 5
+## Day 6
 
-* [Day 5 part 1]() -
+* [Day 6 part 1]() -
     * TIMESTAMP MISSING
-* [Day 5 part 2]() -
+* [Day 6 part 2]() -
     * TIMESTAMP MISSING
-* [Day 5 part 3]() -
+* [Day 6 part 3]() -
     * TIMESTAMP MISSING
+
