@@ -532,4 +532,5 @@ Create a folder called `day05` copy your solution from day 4 (character, word, a
 * Move that to a separate "library" file.
 * Write tests for these functions. (Some people had one function some had several. Either way is fine.)
 
+* Dead-line 2024.05.21 22:00
 
