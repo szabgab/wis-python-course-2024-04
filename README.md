@@ -25,6 +25,7 @@
 | [Noy Ravensary](https://noyravensary.github.io/)         | [repo](https://github.com/NoyRavensary/NoyRavensary.github.io)             | [solutions](https://github.com/NoyRavensary/Python-Course-Assignments)   |  |  |
 | [Omer Sapir](https://omersapir.github.io/)               | [repo](https://github.com/OmerSapir/OmerSapir.github.io)                   | [solutions](https://github.com/OmerSapir/Python-course-assignments)      |  |  |
 | [Omer Zachar](https://omerzachar.github.io/)             | [repo](https://github.com/OmerZachar/omerzachar.github.io)                 | [solutions](https://github.com/OmerZachar/projects)                      |  |  |
+| [Orlena Benamozig](https://orlena55.github.io/)          | [repo](https://github.com/Orlena55/Orlena55.github.io)                     |  |  |  |
 | [Peleg Schneider](https://peleg555.github.io/)           | [repo](https://github.com/peleg555/peleg555.github.io)                     |  |  |  |
 | [Rebecca Bornstein](https://rebka1989.github.io/)        | [repo](https://github.com/rebka1989/rebka1989.github.io)                   | [solutions](https://github.com/rebka1989/PythonCourse)                   |  |  |
 | [Roi Siegelman](https://roisiegelman.github.io/)         | [repo](https://github.com/roisiegelman/roisiegelman.github.io)             | [solutions](https://github.com/roisiegelman/roisassignmets.github.io)    |  |  |
