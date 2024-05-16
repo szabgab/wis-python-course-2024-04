@@ -510,10 +510,16 @@ python count.py FILENAME
 * [Day 5 part 1]() - TIMESTAMP MISSING
     * about computers (hard-disk, memory, CPU (cores), GPU)
     * using modules, import
-* [Day 5 part 2]() -
-    * TIMESTAMP MISSING
-* [Day 5 part 3]() -
-    * TIMESTAMP MISSING
+* [Day 5 part 2]() - TIMESTAMP MISSING
+    * `pip install pytest`
+* [Day 5 part 3]() - TIMESTAMP MISSING
+    * pytest  https://code-maven.com/slides/python/pytest-with-parameters
+    * CI - Continuous Integration
 
 
+Take the fibonacci function and move to a module.
+Write tests.
 
+area function with a bug
+
+`pytest --doctest-modules  mymath.py`

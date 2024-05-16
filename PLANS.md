@@ -1,8 +1,4 @@
 
-Take the fibonacci function and move to a module.
-Write tests.
-
-area function with a bug
 
 
 

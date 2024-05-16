@@ -12,6 +12,7 @@ def main():
     #     exit(f"Usage: {sys.argv[0]} NUMBER for factorial...")
 
     # n = int(sys.argv[1])
+    fibonacci()
 
     n = 3
     result = fibonacci(n)

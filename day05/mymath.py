@@ -1,7 +1,21 @@
 def add(x, y):
     return x + y
 
+# I know there is a bug here!
+def area(width, height):
+    return width + height
+
+
 def fibonacci(n):
+    """
+    calculate the fibonacci series
+
+    return the Fibonacci number
+    >>> fibonacci(3)
+    2
+    >>> fibonacci(5)
+    5
+    """
     if n == 1:
         return 1
     if n == 2:
