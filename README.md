@@ -507,12 +507,12 @@ python count.py FILENAME
 
 ## Day 5
 
-* [Day 5 part 1]() - TIMESTAMP MISSING
+* [Day 5 part 1](https://youtu.be/BL3yng1JVHQ) - TIMESTAMP MISSING
     * about computers (hard-disk, memory, CPU (cores), GPU)
     * using modules, import
-* [Day 5 part 2]() - TIMESTAMP MISSING
+* [Day 5 part 2](https://youtu.be/mTvvF4TNKJU) - TIMESTAMP MISSING
     * `pip install pytest`
-* [Day 5 part 3]() - TIMESTAMP MISSING
+* [Day 5 part 3](https://youtu.be/hU2xwBGm_Cw) - TIMESTAMP MISSING
     * pytest  https://code-maven.com/slides/python/pytest-with-parameters
     * CI - Continuous Integration
 
