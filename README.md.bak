@@ -348,20 +348,20 @@ git mv
 
 * [Day 3 part 1](https://youtu.be/0JVKE-Lc4Hs) - Git, code-formatting, random.py
     * 00:05 Repository cloning.
-    * 03:52 Several ways of creating github repositories and connecting them to github
+    * 03:52 Several ways of creating githab repositories and connecting them to githab
     * 04:50 How to clone empty repository
     * 07:25 Opening visual studio code from bash commend
     * 13:50 additional git commands
     * 16:53 GitHub Actions errors of the GitHub Pages of Mazal
     * 29:00 Code formatting importance
-    * 31:00 Install and use black for code formatting: (beautifier, prettifyer, code formatter)
+    * 31:00 Install and use black for code formatting: (beautifyer, prettifyer, code formatter)
     * 34:00 Opening terminal from visual studio code
     * 35:40 Example of how to use black
     * 40:50 Create program called random.py and have it also import random.
 
     * Some students needed help.
     * The GitHub Actions errors of the [GitHub Pages of Mazal](https://github.com/Mazalik/mazalik.github.io).
-    * Install and use [black](https://pypi.org/project/black/) for code formatting:( beautifier, prettifyer, code formatter)
+    * Install and use [black](https://pypi.org/project/black/) for code formatting:( beautifyer, prettifyer, code formatter)
     * Create program called random.py and have it also import random.
 
 * [Day 3 part 2](https://youtu.be/NqHO6WsGLJ0)
@@ -395,14 +395,14 @@ git mv
     * Suggest an improvement to the web site or suggest a topic to cover on the web site more in depth. (e.g. Adam likes traveling, so ask for a few more pictures, or a favorite location.)
     * In the issue mention me using `@szabgab` so I'll be notified.
 
-* When you receive such an issue, please react to it. Once you finished implementing whatever it suggested (if there was anything), then close it.
+* When you receive such an issue, please react to it. Once you finished imlementing whatever it suggested (if there was anything), then close it.
 
 
 * Create a folder called "day03". Take the solution from the previous assignment, the number guessing game, copy it to the new "day03" folder and make some changes
     * Allow the user to play several games: once one game ends ask her if she wants to play again, generate a new random number and play again.
     * If the user enters "x" any time, exit the program.
     * If the user enters "n" any time, leave the current game and ask if she wants to play a new game?
-    * If the user enters "s" any time, show the hidden number (cheating).
+    * If the user enters "s" any time, show the hidden number (cheateing).
     * Move the code in a function called `main` and split up the code into several function that make sense.
 
 * Dead-line 2024.05.08 16:00
@@ -412,7 +412,7 @@ git mv
 * [Day 4 part 1](https://youtu.be/PZ8pyhDZmAI) - 
     * 02:00 About comments in the code
     * 04:20 Example of unnecessary comments
-    * 07:00 Following up on committed comments: git blame & git show
+    * 07:00 Following up on commited comments: git blame & git show
     * 16:22 Commit using source control in visual studio
     * 22:30 Explain what is recursion
     * 23:30 Recursion example: factorial function
@@ -423,7 +423,7 @@ git mv
     * Discuss the problem with recursive calling main - in the number guessing game it is better to have two while loops.
 
 * [Day 4 part 2](https://youtu.be/pGKvycezfwI)
-    * 03:00 - Example of factorial in a non-recursive way.
+    * 03:00 - Example of factorial in a nonrecursive way.
     * 10:50 - Fibonacci example.
     * 23:15 - Read a string from a file to count the digits
     * 30:23 - Explain about open file.
@@ -517,7 +517,7 @@ python count.py FILENAME
     * CI - Continuous Integration
 
 
-Take the Fibonacci function and move to a module.
+Take the fibonacci function and move to a module.
 Write tests.
 
 area function with a bug
