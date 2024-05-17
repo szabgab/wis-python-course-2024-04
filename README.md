@@ -508,6 +508,13 @@ python count.py FILENAME
 ## Day 5
 
 * [Day 5 part 1](https://youtu.be/BL3yng1JVHQ) - TIMESTAMP MISSING
+    * 00:38 - comments about code
+    * 04:30 - Memory (RAM)
+    * 13:30 - CPU
+    * 20:00 - GPU
+    * 24:30 - how to create modules and import them
+    * 40:00 - student question- python extension
+    * 46:00 - displaying the different methods for importing modules
     * about computers (hard-disk, memory, CPU (cores), GPU)
     * using modules, import
 * [Day 5 part 2](https://youtu.be/mTvvF4TNKJU) - TIMESTAMP MISSING
