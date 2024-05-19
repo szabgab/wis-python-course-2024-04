@@ -518,6 +518,15 @@ python count.py FILENAME
     * about computers (hard-disk, memory, CPU (cores), GPU)
     * using modules, import
 * [Day 5 part 2](https://youtu.be/mTvvF4TNKJU) - TIMESTAMP MISSING
+    * 00:00 - Introduction to code quality assurance.
+    * 10:30 - Intentional bug in custom library; writing a testing program to check for bugs.
+    * 12:25 - pytest package: installation and using pytest.assert.
+    * 18:40 - Interpreting a test report.
+    * 19:50 - Student question: correctly using the pytest package.
+    * 22:55 - Student discussion: multiple pytest.assert calls in a single testing function.
+    * 29:30 - Asserting multiple cases in conjunction with @pytest.mark.parametrize
+    * 37:50 - Running a specific test within a whole testing program.
+    * 39:57 - Further motivation for writing tests for code.
     * `pip install pytest`
 * [Day 5 part 3](https://youtu.be/hU2xwBGm_Cw) - TIMESTAMP MISSING
     * pytest  https://code-maven.com/slides/python/pytest-with-parameters
