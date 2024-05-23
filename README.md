@@ -552,10 +552,17 @@ Create a folder called `day05` copy your solution from day 4 (character, word, a
 
 ## Day 6
 
-* [Day 6 part 1]() -
-    * TIMESTAMP MISSING
-* [Day 6 part 2]() -
-    * TIMESTAMP MISSING
+* [Day 6 part 1]() - TIMESTAMP MISSING
+    * Exception handling
+
+* [Day 6 part 2]() - TIMESTAMP MISSING
+    * Exception handling
+    * YAML
+    * JSON
+    * INI
+    * TOML
+    * Read CSV file(s)
+
 * [Day 6 part 3]() -
     * TIMESTAMP MISSING
 

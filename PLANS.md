@@ -1,14 +1,8 @@
 
 
-* Exception handling
 
 * Read image using pillow
-* Read CSV file(s)
 * Read Excel file
-
-* YAML
-* JSON
-* INI
 
 
 
