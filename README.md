@@ -567,6 +567,10 @@ Create a folder called `day05` copy your solution from day 4 (character, word, a
     * Read image using pillow
     * Read Excel file
 
+* Slides of [Python and Excel](https://code-maven.com/slides/python/excel)
+* Slides of [YAML](https://code-maven.com/slides/python/yaml)
+* [Exception hierarchy](https://docs.python.org/3/library/exceptions.html#exception-hierarchy)
+
 
 ### Assignment (day 6)
 
