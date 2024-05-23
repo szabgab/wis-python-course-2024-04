@@ -552,10 +552,10 @@ Create a folder called `day05` copy your solution from day 4 (character, word, a
 
 ## Day 6
 
-* [Day 6 part 1]() - TIMESTAMP MISSING
+* [Day 6 part 1](https://youtu.be/bZGndDSSsQY) - TIMESTAMP MISSING
     * Exception handling
 
-* [Day 6 part 2]() - TIMESTAMP MISSING
+* [Day 6 part 2](https://youtu.be/7UFeTDpWw9U) - TIMESTAMP MISSING
     * Exception handling
     * YAML
     * JSON
@@ -563,7 +563,7 @@ Create a folder called `day05` copy your solution from day 4 (character, word, a
     * TOML
     * Read CSV file(s)
 
-* [Day 6 part 3]() - TIMESTAMP MISSING
+* [Day 6 part 3](https://youtu.be/9oFBGnSOe6o) - TIMESTAMP MISSING
     * Read image using pillow
     * Read Excel file
 
