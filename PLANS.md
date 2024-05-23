@@ -1,11 +1,5 @@
 
 
-
-* Read image using pillow
-* Read Excel file
-
-
-
 * Install Jupyter notebook, show hello world example with it. Show `input`.
 
 

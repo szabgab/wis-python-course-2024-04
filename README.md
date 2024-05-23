@@ -563,8 +563,10 @@ Create a folder called `day05` copy your solution from day 4 (character, word, a
     * TOML
     * Read CSV file(s)
 
-* [Day 6 part 3]() -
-    * TIMESTAMP MISSING
+* [Day 6 part 3]() - TIMESTAMP MISSING
+    * Read image using pillow
+    * Read Excel file
 
 
 ### Assignment (day 6)
+
