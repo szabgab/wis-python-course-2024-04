@@ -1,20 +1,31 @@
 
 
+* Exception handling
+
+* Read image using pillow
+* Read CSV file(s)
+* Read Excel file
+
+* YAML
+* JSON
+* INI
 
 
 
 * Install Jupyter notebook, show hello world example with it. Show `input`.
 
 
-### Assignment
 
 
-## Day 6
+## Day 7
 
-* [Day 6 part 1]() -
+* [Day 7 part 1]() -
     * TIMESTAMP MISSING
-* [Day 6 part 2]() -
+* [Day 7 part 2]() -
     * TIMESTAMP MISSING
-* [Day 6 part 3]() -
+* [Day 7 part 3]() -
     * TIMESTAMP MISSING
+
+### Assignment (day 7)
+
 
