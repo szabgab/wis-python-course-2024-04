@@ -578,3 +578,21 @@ Create a folder called `day05` copy your solution from day 4 (character, word, a
 
 ### Assignment (day 6)
 
+Create a folder called day6 and in it:
+
+Find an important Excel or CSV file in the lab where you work and write a program that will do some computation on it.
+Include a sample of the data file and write a test that will verify the results given that input file.
+
+If you don't work in any lab, ask the other participants of the course for a file. Worst case you can download a file
+from [Kaggle](https://www.kaggle.com/).
+
+If the files you have contain data that you don't want to be public, replace the real data with fake values.
+
+I know that "some computation" is rather vague, but that's because in each case something els might make sense.
+
+Calculation might be summing up certain numbers or maybe doing a slightly more complex calculation on the data.
+Maybe collecing and listing some values that might be numerical or textual.
+
+
+* Dead-line 2024.06.02 22:00
+
