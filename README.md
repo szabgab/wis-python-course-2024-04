@@ -555,13 +555,17 @@ Create a folder called `day05` copy your solution from day 4 (character, word, a
 * [Day 6 part 1](https://youtu.be/bZGndDSSsQY) - TIMESTAMP MISSING
     * Exception handling
 
-* [Day 6 part 2](https://youtu.be/7UFeTDpWw9U) - TIMESTAMP MISSING
-    * Exception handling
-    * YAML
-    * JSON
-    * INI
-    * TOML
-    * Read CSV file(s)
+* [Day 6 part 2](https://youtu.be/7UFeTDpWw9U)
+    * 01:02 - Exception handling
+    * 11:55 - Introduction to specific file handling
+    * 18:14 - YAML files
+    * 24:42 - JSON files
+    * 26:03 - INI files
+    * 26:25 - TOML files
+    * 27:00 - YAML library reading example
+    * 33:16 - CSV Library reading example
+    * 40:07 - next()
+    * 44:03 - DictReader()
 
 * [Day 6 part 3](https://youtu.be/9oFBGnSOe6o) - TIMESTAMP MISSING
     * Read image using pillow
