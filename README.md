@@ -593,6 +593,9 @@ I know that "some computation" is rather vague, but that's because in each case 
 Calculation might be summing up certain numbers or maybe doing a slightly more complex calculation on the data.
 Maybe collecing and listing some values that might be numerical or textual.
 
+Please also add a README.md to the day6 folder explaining in a few words or few sentences what is the data and what kind
+of computation you do.
+
 
 * Dead-line 2024.06.02 22:00
 
