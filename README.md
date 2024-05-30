@@ -48,7 +48,7 @@
 * [Day 4](#Day-4) 2024.05.09 9:00-12:00
 * [Day 5](#Day-5) 2024.05.16 9:00-12:00
 * [Day 6](#Day-6) 2024.05.23 9:00-12:00
-* 2024.05.30 9:00-12:00
+* [Day 7](#Day-7) 2024.05.30 9:00-12:00
 * 2024.06.06 9:00-12:00
 * 2024.06.13 9:00-12:00
 * 2024.06.20 9:00-12:00
@@ -598,4 +598,109 @@ of computation you do.
 
 
 * Dead-line 2024.06.02 22:00
+
+## Day 7
+
+* [Day 7 part 1](https://youtu.be/PSjlBfwqglM) - TIMESTAMP MISSING
+* [Day 7 part 2](https://youtu.be/8kmbtfPfB_M) - TIMESTAMP MISSING
+* [Day 7 part 3](https://youtu.be/TXpKwPLW5sM) - TIMESTAMP MISSING
+
+
+Create virtual environment:
+
+```
+virtualenv -p python3 venv
+```
+
+Start virtual envrionment:
+
+```
+source venv/bin/activate
+```
+
+On Windows  it is probably started by running `.\venv\bin\activate.bat`
+
+
+```
+pip install pytest
+```
+
+```
+pip install -r requirements.txt
+```
+
+
+```
+$ pip freeze
+et-xmlfile==1.1.0
+iniconfig==2.0.0
+openpyxl==3.1.3
+packaging==24.0
+pluggy==1.5.0
+pytest==8.2.1
+```
+
+* Discuss the warnings in day6 project of Yael - Show the way Roi hides them
+* Introduce the requirements.txt file (see the project of Yuval)
+* Boyue - show the problem with the hard-coded path
+* The problem with having code in the body of the program Meir
+* Review the code of Maher (unittest, `__name__`, hard-coded filename)
+* Roi - test generates an image should be either in gitignore or better yet in a temporary folder
+* Testing using the file (Shahar)
+
+* Talk about the project, set date for project proposals
+
+* Getting data from web sites [Open Weathermap](https://openweathermap.org/) API
+
+* [Scientific Python](https://code-maven.com/slides/python/scipy)
+
+* [BioPython](https://biopython.org/)
+
+
+### Assignment (day 7)
+
+Create day07 folder
+
+Write a command line tool that can download data from NCBI. You can download from the nucleotide database
+as we did in the lecture, but it would be much more interesting if you used some of the other databases
+available on NCBI. e.g.:
+
+```
+python ncbi.py  TERM NUMBER
+```
+
+Search for the TERM and download up to NUMBER items.Save each item in its own file. Print the names of the files.
+Also save the date, the search term, the number asked for and the total number of items found in a csv file. So if you run it twice
+
+```
+python ncbi.py  Orchid 3
+python ncbi.py  cauliflower 7
+```
+
+you'd get something like this:
+
+```
+date,term,max,total
+2024-05-30 17:20:21,Orchid,3,527341
+2024-05-30 18:12:34,cauliflower,7,32781
+```
+
+Add a `README.md` that explain what the program does.
+
+* Dead-line 2024.06.09 22:00
+
+## Project proposal
+
+As I explained in the lecture you will have to write a project that is hopefully going to be useful or fun for you.
+
+Size: about 4 times bigger than a weekly assignment.
+
+Create a new git repository and in the README.md file describe the project. Add links to explanations and images if necessary.
+This is the project proposal and this will also become the user-documentation.
+
+Open an issue on our repository with a link to this repo.
+
+* Dead-line 2024.06.16 22:00
+
+
 
