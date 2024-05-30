@@ -1,8 +1,11 @@
 * Discuss the warnings in day6 project of Yael - Show the way Roi hides them
-* Introduce the requirements.txt file (see the project of Meir or Yuval)
+* Introduce the requirements.txt file (see the project of Yuval)
+* The problem with having code in the body of the program Meir
 * Boyue - show the problem with the hard-coded path
 * Review the code of Maher (unittest, `__name__`, hard-coded filename)
+* Roi - test generates an image should be either in gitignore or better yet in a temporary folder
 * Testing using the file (Shahar)
+
 
 * Talk about the project, set date for project proposals
 
