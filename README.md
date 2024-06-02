@@ -695,8 +695,13 @@ As I explained in the lecture you will have to write a project that is hopefully
 
 Size: about 4 times bigger than a weekly assignment.
 
-Create a new git repository and in the README.md file describe the project. Add links to explanations and images if necessary.
+Create a new git repository and in the `README.md` file describe the project. Add links to explanations and images if necessary.
 This is the project proposal and this will also become the user-documentation.
+
+The proposal should include the scientific background and explanation of the project and the technical, programming part:
+* How to install the dependencies.
+* How to run the tests that come with the program.
+* What kind of input does the program expect and how to run the program.
 
 Open an issue on our repository with a link to this repo.
 
