@@ -601,7 +601,16 @@ of computation you do.
 
 ## Day 7
 
-* [Day 7 part 1](https://youtu.be/PSjlBfwqglM) - TIMESTAMP MISSING
+* [Day 7 part 1](https://youtu.be/PSjlBfwqglM)
+    * 00:00 Start
+    * 00:46 issues from assignments
+    * 11:05 requirements file
+    * 16:27 pip freeze
+    * 19:48 pipeline
+    * 20:50 grep
+    * 23:30 deprecationWarning
+    * 36:21 path problem
+    * 42:07 __name__ == "__main__":
 * [Day 7 part 2](https://youtu.be/8kmbtfPfB_M) - TIMESTAMP MISSING
 * [Day 7 part 3](https://youtu.be/TXpKwPLW5sM) - TIMESTAMP MISSING
 
