@@ -708,9 +708,11 @@ Create a new git repository and in the `README.md` file describe the project. Ad
 This is the project proposal and this will also become the user-documentation.
 
 The proposal should include the scientific background and explanation of the project and the technical, programming part:
-* How to install the dependencies.
-* How to run the tests that come with the program.
-* What kind of input does the program expect and how to run the program.
+* How to install the dependencies? That should be:  `pip install -r requirements.txt`.
+* How to run the tests that come with the program? That should be `pytest`.
+* What kind of input does the program expect and how to run the program. e.g.:
+    * The program will receive the name of the input CSV files on the command line and will print the results to the screen: `python project.py  input-1.csv  input-2.csv`.
+    * The program will open a window with windows to fill in the input parameters.  (this can be implemented using Tkinter)
 
 Open an issue on our repository with a link to this repo.
 
