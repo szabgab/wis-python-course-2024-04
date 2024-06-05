@@ -707,9 +707,9 @@ Size: about 4 times bigger than a weekly assignment.
 Create a new git repository and in the `README.md` file describe the project. Add links to explanations and images if necessary.
 This is the project proposal and this will also become the user-documentation.
 
-The proposal should include the scientific background and explanation of the project and the technical, programming part:
+The proposal should include the scientific background of the project and the technical, programming part. Mostly this is "standard", but it is better to be explicit about it. So:
 * How to install the dependencies? That should be:  `pip install -r requirements.txt`.
-* How to run the tests that come with the program? That should be `pytest`.
+* How to run the tests that come with the program? People should be able to just run `pytest` and that should run the tests.
 * What kind of input does the program expect and how to run the program. e.g.:
     * The program will receive the name of the input CSV files on the command line and will print the results to the screen: `python project.py  input-1.csv  input-2.csv`.
     * The program will open a window with windows to fill in the input parameters.  (this can be implemented using Tkinter)
