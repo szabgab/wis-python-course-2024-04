@@ -714,6 +714,10 @@ The proposal should include the scientific background of the project and the tec
     * The program will receive the name of the input CSV files on the command line and will print the results to the screen: `python project.py  input-1.csv  input-2.csv`.
     * The program will open a window with windows to fill in the input parameters.  (this can be implemented using Tkinter)
 
+If your project relies on some data (most likely it will), then include some data files in the repository. The actual values in the file can be fake, but the format of the file should be
+the same as the file(s) you already have.
+
+
 Open an issue on our repository with a link to this repo.
 
 * Dead-line 2024.06.16 22:00
