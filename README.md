@@ -707,7 +707,13 @@ Size: about 4 times bigger than a weekly assignment.
 Create a new git repository and in the `README.md` file describe the project. Add links to explanations and images if necessary.
 This is the project proposal and this will also become the user-documentation.
 
-The proposal should include the scientific background of the project and the technical, programming part. Mostly this is "standard", but it is better to be explicit about it. So:
+The proposal should include the scientific background of the project and the technical, programming part.
+
+The scientific part will likely include many terms I am not familiar with. Please include links to explanations.
+This part should also include the explain about the models and how the data is processed. If you use well-known algorithms then
+please link to explanations.
+
+The technical part is mostly "standard", but it is better to be explicit about it. So:
 * How to install the dependencies? That should be:  `pip install -r requirements.txt`.
 * How to run the tests that come with the program? People should be able to just run `pytest` and that should run the tests.
 * What kind of input does the program expect and how to run the program. e.g.:
@@ -716,6 +722,7 @@ The proposal should include the scientific background of the project and the tec
 
 If your project relies on some data (most likely it will), then include some data files in the repository. The actual values in the file can be fake, but the format of the file should be
 the same as the file(s) you already have.
+
 
 
 Open an issue on our repository with a link to this repo.
