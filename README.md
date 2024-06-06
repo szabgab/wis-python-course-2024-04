@@ -730,4 +730,52 @@ Open an issue on our repository with a link to this repo.
 * Dead-line 2024.06.16 22:00
 
 
+## Day 8
+
+* [Day 8 part 1](https://youtu.be/JsiCY3CGTIM) - TIMESTAMP MISSING
+    * Tkinter
+    * Shahar-Garin/day06
+    * [slides on GitHub](https://github.com/szabgab/slides/) - [tk slides](https://code-maven.com/slides/python/tk)
+    * [Tkinter Dialogs](https://docs.python.org/3/library/dialog.html)
+    * [sys.platform](https://docs.python.org/3/library/sys.html#sys.platform)
+
+* [Day 8 part 2](https://youtu.be/q6t8RWKra64) - TIMESTAMP MISSING
+    * `pip install spyder`
+    * Install Jupyter notebook, show hello world example with it. Show `input`.
+    * Jupyter Lab
+    * [Jupyter notebook examples](https://code-maven.com/slides/python/jupyter)
+
+```
+pip install jupyter
+jupyter lab
+jupyter notebook
+```
+
+* [Day 8 part 3](https://youtu.be/35RoDM5ECVw) - TIMESTAMP MISSING
+    * Jupyter notebook examples
+    * image manipulation
+
+### Assignment (day 8)
+
+One of the following two in the `day08` folder:
+
+1. Take the number guessing game and create GUI for it using Tk.
+    * Have a button or a menu option to exit the game.
+    * Have a button to restart the game - the computer generates a new random number and resets the guess-counter.
+    * Have a button that will show the currently hidden value in a pop-out dialog.
+
+2. Create a GUI for the ncbi.py of the previous assignment.
+    * Have a box to type in the search term.
+    * Another box to type in the number - how many to download.
+    * A selector to select the database. (nucleotide, ...?)
+    * A selector to select the file-format (GeneBank, FASTA, what else can be there?).
+    * A button to "download the data".
+
+* Include a `README.md` in the `day08` folder.
+* Include a `requrements.txt` if necessary.
+
+I'd strongly recommend that before you submit the solution to me, show it to one of the other students and let
+that person try it.
+
+* Dead-line 2024.06.16 22:00
 
