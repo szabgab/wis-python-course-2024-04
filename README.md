@@ -746,6 +746,15 @@ The technical part is mostly "standard", but it is better to be explicit about i
 If your project relies on some data (most likely it will), then include some data files in the repository. The actual values in the file can be fake, but the format of the file should be
 the same as the file(s) you already have.
 
+Please give the project a real title that is meaningful to other researchers and not just "project", after all these projects are expected to have value way beyond being projects for this course.
+Name the repository accordingly.
+
+It would be nice if the README had a reference to the course e.g. a link back to our repo something like this,
+
+> This project was originally implemented as part of the [Python programming course](https://github.com/szabgab/wis-python-course-2024-04)
+> at the [Weizmann Institute of Science](https://www.weizmann.ac.il/) taught by [Gabor Szabo](https://szabgab.com/)
+
+but beyond that it is just a stand-alone project.
 
 
 Open an issue on our repository with a link to this repo.
