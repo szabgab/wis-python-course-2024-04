@@ -567,7 +567,21 @@ Create a folder called `day05` copy your solution from day 4 (character, word, a
     * 40:07 - next()
     * 44:03 - DictReader()
 
-* [Day 6 part 3](https://youtu.be/9oFBGnSOe6o) - TIMESTAMP MISSING
+* [Day 6 part 3](https://youtu.be/9oFBGnSOe6o)
+    * 00:00 - start
+    * 01:53 - pillow (python imaging library) library
+    * 04:47 - Image.open
+    * 06:03 - format, size, mode
+    * 15:35 - resize
+    * 18:05 - other image actions with pillow
+    * 20:11 - draw_triangle
+    * 27:00 - read spreadsheets
+    * 28:10 - openpyxl (create and edit spreadsheet file)
+    * 39:35 - worksheet title
+    * 40:35 - expressions
+    * 42:20 - create chart (graph) in excel)
+    * 42:45 - read_excel
+    * 44:35 - closing
     * Read image using pillow
     * Read Excel file
 
@@ -611,7 +625,16 @@ of computation you do.
     * 23:30 deprecationWarning
     * 36:21 path problem
     * 42:07 __name__ == "__main__":
-* [Day 7 part 2](https://youtu.be/8kmbtfPfB_M) - TIMESTAMP MISSING
+* [Day 7 part 2](https://youtu.be/8kmbtfPfB_M)
+    * 00:00 - name == "main"
+    * 07:25 - path problem
+    * 09:07 - .gitignore
+    * 10:28 - unittest
+    * 15:42 - output plots in tests
+    * 18:54 - tkinter
+    * 21:15 - testing in temporary folders
+    * 28:40 - Final project
+    * 42:00 - Importing data from web (Scientific Python)
 * [Day 7 part 3](https://youtu.be/TXpKwPLW5sM) - TIMESTAMP MISSING
 
 
