@@ -811,3 +811,23 @@ that person try it.
 
 * Dead-line 2024.06.16 22:00
 
+## Day 9
+
+* [Day 9 part 1]() - TIMESTAMP MISSING Refactoring code, Making improvements and adding features
+* [Day 9 part 2]() - TIMESTAMP MISSING Argparse
+* [Day 9 part 3]() - TIMESTAMP MISSING
+
+* Thea Meimun day7 - merge functions
+https://code-maven.com/slides/python/argparse
+
+```
+ncbi_original.py
+ncbi_shared.py
+ncbi_download_folder.py
+```
+
+
+
+### Assignment (day 9)
+
+
