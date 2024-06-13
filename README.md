@@ -9,7 +9,7 @@
 | [Adam Liberman](https://adamliberman.github.io/)         | [repo](https://github.com/AdamLiberman/AdamLiberman.github.io)             | [solutions](https://github.com/AdamLiberman/python_course_assignments)   |  |  |
 | [Adi Bar-El Meisel](https://adibarelmeisel.github.io/)   | [repo](https://github.com/AdiBarelMeisel/AdiBarelMeisel.github.io)         |  |  |  |
 | [Ana Mejia Fleisacher](https://anitamf.github.io/)       | [repo](https://github.com/AnitaMF/AnitaMF.github.io)                       | [solutions](https://github.com/AnitaMF/python_assignments.github.io)     |  |  |
-| [Avital Rosner](https://avitalrosner.github.io/)         | [repo](https://github.com/Avitalrosner/avitalrosner.github.io)             | [solutions](https://github.com/Avitalrosner/Python_course_Assignments)   | [project](https://github.com/Avitalrosner/Project) |  |
+| [Avital Rosner](https://avitalrosner.github.io/)         | [repo](https://github.com/Avitalrosner/avitalrosner.github.io)             | [solutions](https://github.com/Avitalrosner/Python_course_Assignments)   | [Fat tissue analysis for cfRNA data](https://github.com/Avitalrosner/Fat_tissue_analysis) |  |
 | [Boaz Yaari](https://boaz-y.github.io/)                  | [repo](https://github.com/Boaz-Y/Boaz-Y.github.io)                         | [solutions](https://github.com/Boaz-Y/Solutions)                         |  |  |
 | [Boyue Sun](https://dahaisun.github.io/)                 | [repo](https://github.com/DahaiSun/DahaiSun.github.io)                     | [solutions](https://github.com/DahaiSun/wis_python_course_assignments)   |  |  |
 | [Chen Davidyan Krisi](https://chendavidyan.github.io/)   | [repo](https://github.com/ChenDavidyan/ChenDavidyan.github.io)             | [solutions](https://github.com/ChenDavidyan/Python_assignments)          |  |  |
@@ -34,7 +34,7 @@
 | [Shaked Levy](https://levyshaked.github.io/)             | [repo](https://github.com/LevyShaked/LevyShaked.github.io)                 | [solutions](https://github.com/LevyShaked/Assignments_rep)               |  |  |
 | [Thay Karmin](https://thaykarmin.github.io/)             | [repo](https://github.com/THAYKARMIN/THAYKARMIN.github.io)                 | [solutions](https://github.com/THAYKARMIN/assignments)                   |  |  |
 | [Thea Meimoun](https://theammn.github.io/)               | [repo](https://github.com/theammn/theammn.github.io)                       | [solutions](https://github.com/theammn/assignments)                      |  |  |
-| [Yael Arieli](https://yaelarieli.github.io/)             | [repo](https://github.com/yaelarieli/yaelarieli.github.io)                 | [solutions](https://github.com/yaelarieli/wis-python-course-hw)          | [project](https://github.com/yaelarieli/Project---WIS-Python-course) |  |
+| [Yael Arieli](https://yaelarieli.github.io/)             | [repo](https://github.com/yaelarieli/yaelarieli.github.io)                 | [solutions](https://github.com/yaelarieli/wis-python-course-hw)          | [Calculate adiabatic fraction in a cloud](https://github.com/yaelarieli/Project---WIS-Python-course) |  |
 | [Yuval Bernard](https://yuvalbernard.github.io/)         | [repo](https://github.com/YuvalBernard/yuvalbernard.github.io)             | [solutions](https://github.com/YuvalBernard/weizmann-python-assignments) |  |  |
 
 ## Plan
