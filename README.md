@@ -813,9 +813,9 @@ that person try it.
 
 ## Day 9
 
-* [Day 9 part 1]() - TIMESTAMP MISSING Refactoring code, Making improvements and adding features
-* [Day 9 part 2]() - TIMESTAMP MISSING Argparse
-* [Day 9 part 3]() - TIMESTAMP MISSING
+* [Day 9 part 1](https://youtu.be/_C8ndTZNLTQ) - TIMESTAMP MISSING Refactoring code, Making improvements and adding features
+* [Day 9 part 2](https://youtu.be/0QkBC0QXclw) - TIMESTAMP MISSING Argparse
+* [Day 9 part 3](https://youtu.be/kNtP8dCTEcE) - TIMESTAMP MISSING Regular Expressions 
 
 * Working on the program written by [Thea Meimoun](https://github.com/theammn/assignments) day7 - merge functions
 * [Argparse slides](https://code-maven.com/slides/python/argparse)
@@ -827,7 +827,14 @@ ncbi_download_folder.py
 ncbi_argparse.py
 ```
 
+* [Regex slides](https://code-maven.com/slides/python/regex) (1st of 3 chapters)
+* [Regex DNA slides](https://code-maven.com/slides/python/regex-dna) - longest sub-sequence
 
+```
+check_number_with_regex.py
+check_double_letters_with_regex.py
+dna_with_regex.py
+```
 
 ### Assignment (day 9)
 
