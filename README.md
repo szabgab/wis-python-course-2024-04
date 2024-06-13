@@ -817,13 +817,14 @@ that person try it.
 * [Day 9 part 2]() - TIMESTAMP MISSING Argparse
 * [Day 9 part 3]() - TIMESTAMP MISSING
 
-* Thea Meimun day7 - merge functions
-https://code-maven.com/slides/python/argparse
+* Working on the program written by [Thea Meimoun](https://github.com/theammn/assignments) day7 - merge functions
+* [Argparse slides](https://code-maven.com/slides/python/argparse)
 
 ```
 ncbi_original.py
 ncbi_shared.py
 ncbi_download_folder.py
+ncbi_argparse.py
 ```
 
 
