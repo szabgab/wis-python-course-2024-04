@@ -21,14 +21,14 @@
 | [Liron Hoffman](https://liroh99.github.io/)              | [repo](https://github.com/liroh99/liroh99.github.io)                       | [solutions](https://github.com/liroh99/Assignments)                      |  |  |
 | [Maher Salhab](https://mahers7.github.io/)               | [repo](https://github.com/Mahers7/Mahers7.github.io)                       | [solutions](https://github.com/Mahers7/Python_assignments)               |  |  |
 | [Mazal Faraj](https://mazalik.github.io/)                | [repo](https://github.com/Mazalik/mazalik.github.io)                       | [solutions](https://github.com/Mazalik/python_course_sol)                |  |  |
-| [Meir Sylman](https://meirsylman.github.io/)             | [repo](https://github.com/MeirSylman/MeirSylman.github.io)                 | [solutions](https://github.com/MeirSylman/MyAssignments)                 |  |  |
+| [Meir Sylman](https://meirsylman.github.io/)             | [repo](https://github.com/MeirSylman/MeirSylman.github.io)                 | [solutions](https://github.com/MeirSylman/MyAssignments)                 | [From Electropherogram to peptide](https://github.com/MeirSylman/From-Electropherogram-to-Peptide) |  |
 | [Noy Ravensary](https://noyravensary.github.io/)         | [repo](https://github.com/NoyRavensary/NoyRavensary.github.io)             | [solutions](https://github.com/NoyRavensary/Python-Course-Assignments)   |  |  |
 | [Omer Sapir](https://omersapir.github.io/)               | [repo](https://github.com/OmerSapir/OmerSapir.github.io)                   | [solutions](https://github.com/OmerSapir/Python-course-assignments)      |  |  |
 | [Omer Zachar](https://omerzachar.github.io/)             | [repo](https://github.com/OmerZachar/omerzachar.github.io)                 | [solutions](https://github.com/OmerZachar/projects)                      |  |  |
 | [Orlena Benamozig](https://orlena55.github.io/)          | [repo](https://github.com/Orlena55/Orlena55.github.io)                     |  |  |  |
 | [Peleg Schneider](https://peleg555.github.io/)           | [repo](https://github.com/peleg555/peleg555.github.io)                     |  |  |  |
 | [Rebecca Bornstein](https://rebka1989.github.io/)        | [repo](https://github.com/rebka1989/rebka1989.github.io)                   | [solutions](https://github.com/rebka1989/PythonCourse)                   |  |  |
-| [Roi Siegelman](https://roisiegelman.github.io/)         | [repo](https://github.com/roisiegelman/roisiegelman.github.io)             | [solutions](https://github.com/roisiegelman/roisassignmets.github.io)    |  |  |
+| [Roi Siegelman](https://roisiegelman.github.io/)         | [repo](https://github.com/roisiegelman/roisiegelman.github.io)             | [solutions](https://github.com/roisiegelman/roisassignmets.github.io)    | [Elucidating the role of NSD1 in breast cancer progression](https://github.com/roisiegelman/NSD1-in-Breast-Cancer) |  |
 | [Sameeha Mittwali](https://sameeham.github.io/)          | [repo](https://github.com/Sameeham/sameeham.github.io)                     |  |  |  |
 | [Shahar Garin](https://shahargarin.github.io/)           | [repo](https://github.com/ShaharGarin/shahargarin.github.io)               | [solutions](https://github.com/ShaharGarin/shahar_assignments)           |  |  |
 | [Shaked Levy](https://levyshaked.github.io/)             | [repo](https://github.com/LevyShaked/LevyShaked.github.io)                 | [solutions](https://github.com/LevyShaked/Assignments_rep)               |  |  |
@@ -49,8 +49,8 @@
 * [Day 5](#Day-5) 2024.05.16 9:00-12:00
 * [Day 6](#Day-6) 2024.05.23 9:00-12:00
 * [Day 7](#Day-7) 2024.05.30 9:00-12:00
-* 2024.06.06 9:00-12:00
-* 2024.06.13 9:00-12:00
+* [Day 8](#Day-8)  2024.06.06 9:00-12:00
+* [Day 9](#Day-9)  2024.06.13 9:00-12:00
 * 2024.06.20 9:00-12:00
 
 ### Participation in the lectures
