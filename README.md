@@ -815,7 +815,7 @@ that person try it.
 
 * [Day 9 part 1](https://youtu.be/_C8ndTZNLTQ) - TIMESTAMP MISSING Refactoring code, Making improvements and adding features
 * [Day 9 part 2](https://youtu.be/0QkBC0QXclw) - TIMESTAMP MISSING Argparse
-* [Day 9 part 3](https://youtu.be/kNtP8dCTEcE) - TIMESTAMP MISSING Regular Expressions 
+* [Day 9 part 3](https://youtu.be/kNtP8dCTEcE) - TIMESTAMP MISSING Regular Expressions
 
 * Working on the program written by [Thea Meimoun](https://github.com/theammn/assignments) day7 - merge functions
 * [Argparse slides](https://code-maven.com/slides/python/argparse)
@@ -837,5 +837,27 @@ dna_with_regex.py
 ```
 
 ### Assignment (day 9)
+
+We saw one example analyzing sequences: find the longest sub-sequence that repeates itself.
+In the day9 folder create a program that will receive the path to a file in Fasta or GeneBank format,
+and use the above analyzis to print out the longest sub-sequence that appears twice.
+
+Then come up with some other "interesting feature" of sequences and add that analyzis too. Make both analyzis optional
+and let the user control which one is done: (assuming this second analyzis is called blabla you could use the program like this:
+
+```
+python analyze.py FILE --duplicate --blabla
+```
+
+What is an "interesting feature" is up to you. It can be a real, scientifically valuable feature, but if that's too difficult it can
+be some simpe feature like the repetition we have.
+
+Include a `README.md` file and the `requirements.txt` file if necessary.
+
+* Dead-line 2024.06.23 22:00
+
+
+
+
 
 
