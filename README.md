@@ -6,7 +6,7 @@
 
 | Home page | Repo | Assignments | Project | Status |
 | --------- | ---- | ----------- | ------- | ------ |
-| [Adam Liberman](https://adamliberman.github.io/)         | [repo](https://github.com/AdamLiberman/AdamLiberman.github.io)             | [solutions](https://github.com/AdamLiberman/python_course_assignments)   |  |  |
+| [Adam Liberman](https://adamliberman.github.io/)         | [repo](https://github.com/AdamLiberman/AdamLiberman.github.io)             | [solutions](https://github.com/AdamLiberman/python_course_assignments)   | [statistical analysis program](https://github.com/AdamLiberman/statistical_analysis_program) |  |
 | [Adi Bar-El Meisel](https://adibarelmeisel.github.io/)   | [repo](https://github.com/AdiBarelMeisel/AdiBarelMeisel.github.io)         |  |  |  |
 | [Ana Mejia Fleisacher](https://anitamf.github.io/)       | [repo](https://github.com/AnitaMF/AnitaMF.github.io)                       | [solutions](https://github.com/AnitaMF/python_assignments.github.io)     |  |  |
 | [Avital Rosner](https://avitalrosner.github.io/)         | [repo](https://github.com/Avitalrosner/avitalrosner.github.io)             | [solutions](https://github.com/Avitalrosner/Python_course_Assignments)   | [Fat tissue analysis for cfRNA data](https://github.com/Avitalrosner/Fat_tissue_analysis) |  |
@@ -16,13 +16,13 @@
 | [Daniella Dayagi](https://daniellayalidayagi.github.io/) | [repo](https://github.com/DaniellaYaliDayagi/DaniellaYaliDayagi.github.io) |  |  |  |
 | [Ekaterina Zhigileva](https://katyazhi.github.io/)       | [repo](https://github.com/katyazhi/katyazhi.github.io)                     | [solutions](https://github.com/katyazhi/solutions)                       |  |  |
 | [Elad Wizman](https://eladwizman.github.io/)             | [repo](https://github.com/EladWizman/EladWizman.github.io)                 |  |  |  |
-| [Hadar Klimovski](https://hadarklimovski.github.io/)     | [repo](https://github.com/hadarklimovski/hadarklimovski.github.io)         | [solutions](https://github.com/HadarKlimovski/HadarsAssignments)         |  |  |
+| [Hadar Klimovski](https://hadarklimovski.github.io/)     | [repo](https://github.com/hadarklimovski/hadarklimovski.github.io)         | [solutions](https://github.com/HadarKlimovski/HadarsAssignments)         | [ProMALS : Advanced Proteomic Profiling for Precision Biomarkers in ALS Prognosis and Disease Progression](https://github.com/HadarKlimovski/proMALS_Prjoect) |  |
 | [Hernan Rubinstein](https://hernanrubinstein.github.io/) | [repo](https://github.com/hernanRubinstein/hernanRubinstein.github.io/)    | [solutions](https://github.com/hernanRubinstein/Solutions_Python_BC)     |  |  |
-| [Liron Hoffman](https://liroh99.github.io/)              | [repo](https://github.com/liroh99/liroh99.github.io)                       | [solutions](https://github.com/liroh99/Assignments)                      |  |  |
+| [Liron Hoffman](https://liroh99.github.io/)              | [repo](https://github.com/liroh99/liroh99.github.io)                       | [solutions](https://github.com/liroh99/Assignments)                      | [qPCR Relative Expression Analysis](https://github.com/liroh99/qPCR_data_analysis/) |  |
 | [Maher Salhab](https://mahers7.github.io/)               | [repo](https://github.com/Mahers7/Mahers7.github.io)                       | [solutions](https://github.com/Mahers7/Python_assignments)               | [Unbiased identification of axonal localization motifs of FABP7 mRNAs through a pooled screen approach.](https://github.com/Mahers7/FABP7_localization_motifs) |  |
 | [Mazal Faraj](https://mazalik.github.io/)                | [repo](https://github.com/Mazalik/mazalik.github.io)                       | [solutions](https://github.com/Mazalik/python_course_sol)                |  |  |
 | [Meir Sylman](https://meirsylman.github.io/)             | [repo](https://github.com/MeirSylman/MeirSylman.github.io)                 | [solutions](https://github.com/MeirSylman/MyAssignments)                 | [From Electropherogram to peptide](https://github.com/MeirSylman/From-Electropherogram-to-Peptide) |  |
-| [Noy Ravensary](https://noyravensary.github.io/)         | [repo](https://github.com/NoyRavensary/NoyRavensary.github.io)             | [solutions](https://github.com/NoyRavensary/Python-Course-Assignments)   |  |  |
+| [Noy Ravensary](https://noyravensary.github.io/)         | [repo](https://github.com/NoyRavensary/NoyRavensary.github.io)             | [solutions](https://github.com/NoyRavensary/Python-Course-Assignments)   | [Protein Quiz Game](https://github.com/NoyRavensary/Protein-quiz-game) |  |
 | [Omer Sapir](https://omersapir.github.io/)               | [repo](https://github.com/OmerSapir/OmerSapir.github.io)                   | [solutions](https://github.com/OmerSapir/Python-course-assignments)      | [Vertical Profile Analysis Tool For Atmospheric Properties Measured By UAV "Stairs" Method](https://github.com/OmerSapir/Analysis-Tool-For-UAV-Measurments) |  |
 | [Omer Zachar](https://omerzachar.github.io/)             | [repo](https://github.com/OmerZachar/omerzachar.github.io)                 | [solutions](https://github.com/OmerZachar/projects)                      |  |  |
 | [Orlena Benamozig](https://orlena55.github.io/)          | [repo](https://github.com/Orlena55/Orlena55.github.io)                     |  |  |  |
@@ -35,7 +35,7 @@
 | [Thay Karmin](https://thaykarmin.github.io/)             | [repo](https://github.com/THAYKARMIN/THAYKARMIN.github.io)                 | [solutions](https://github.com/THAYKARMIN/assignments)                   |  |  |
 | [Thea Meimoun](https://theammn.github.io/)               | [repo](https://github.com/theammn/theammn.github.io)                       | [solutions](https://github.com/theammn/assignments)                      |  |  |
 | [Yael Arieli](https://yaelarieli.github.io/)             | [repo](https://github.com/yaelarieli/yaelarieli.github.io)                 | [solutions](https://github.com/yaelarieli/wis-python-course-hw)          | [Calculate adiabatic fraction in a cloud](https://github.com/yaelarieli/Project---WIS-Python-course) |  |
-| [Yuval Bernard](https://yuvalbernard.github.io/)         | [repo](https://github.com/YuvalBernard/yuvalbernard.github.io)             | [solutions](https://github.com/YuvalBernard/weizmann-python-assignments) |  |  |
+| [Yuval Bernard](https://yuvalbernard.github.io/)         | [repo](https://github.com/YuvalBernard/yuvalbernard.github.io)             | [solutions](https://github.com/YuvalBernard/weizmann-python-assignments) | [Fitting Z-spectra via Nonlinear Least Squares](https://github.com/YuvalBernard/Fitting-Z-spectra-via-Nonlinear-Least-Squares) |  |
 
 ## Plan
 
@@ -49,9 +49,9 @@
 * [Day 5](#Day-5) 2024.05.16 9:00-12:00
 * [Day 6](#Day-6) 2024.05.23 9:00-12:00
 * [Day 7](#Day-7) 2024.05.30 9:00-12:00
-* [Day 8](#Day-8)  2024.06.06 9:00-12:00
-* [Day 9](#Day-9)  2024.06.13 9:00-12:00
-* 2024.06.20 9:00-12:00
+* [Day 8](#Day-8) 2024.06.06 9:00-12:00
+* [Day 9](#Day-9) 2024.06.13 9:00-12:00
+* [Day 10](#Day-10) 2024.06.20 9:00-12:00
 
 ### Participation in the lectures
 
