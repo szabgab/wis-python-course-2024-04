@@ -7,7 +7,7 @@
 | Home page | Repo | Assignments | Project | Status |
 | --------- | ---- | ----------- | ------- | ------ |
 | [Adam Liberman](https://adamliberman.github.io/)         | [repo](https://github.com/AdamLiberman/AdamLiberman.github.io)             | [solutions](https://github.com/AdamLiberman/python_course_assignments)   | [statistical analysis program](https://github.com/AdamLiberman/statistical_analysis_program) |  |
-| [Adi Bar-El Meisel](https://adibarelmeisel.github.io/)   | [repo](https://github.com/AdiBarelMeisel/AdiBarelMeisel.github.io)         |  |  |  |
+| [Adi Bar-El Meisel](https://adibarelmeisel.github.io/)   | [repo](https://github.com/AdiBarelMeisel/AdiBarelMeisel.github.io)         | [solutions](https://github.com/AdiBarelMeisel/Assignments) |  |  |
 | [Ana Mejia Fleisacher](https://anitamf.github.io/)       | [repo](https://github.com/AnitaMF/AnitaMF.github.io)                       | [solutions](https://github.com/AnitaMF/python_assignments.github.io)     |  |  |
 | [Avital Rosner](https://avitalrosner.github.io/)         | [repo](https://github.com/Avitalrosner/avitalrosner.github.io)             | [solutions](https://github.com/Avitalrosner/Python_course_Assignments)   | [Fat tissue analysis for cfRNA data](https://github.com/Avitalrosner/Fat_tissue_analysis) |  |
 | [Boaz Yaari](https://boaz-y.github.io/)                  | [repo](https://github.com/Boaz-Y/Boaz-Y.github.io)                         | [solutions](https://github.com/Boaz-Y/Solutions)                         |  |  |
