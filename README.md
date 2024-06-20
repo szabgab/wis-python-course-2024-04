@@ -8,7 +8,7 @@
 | --------- | ---- | ----------- | ------- | ------ |
 | [Adam Liberman](https://adamliberman.github.io/)         | [repo](https://github.com/AdamLiberman/AdamLiberman.github.io)             | [solutions](https://github.com/AdamLiberman/python_course_assignments)   | [statistical analysis program](https://github.com/AdamLiberman/statistical_analysis_program) |  |
 | [Adi Bar-El Meisel](https://adibarelmeisel.github.io/)   | [repo](https://github.com/AdiBarelMeisel/AdiBarelMeisel.github.io)         | [solutions](https://github.com/AdiBarelMeisel/Assignments) |  |  |
-| [Ana Mejia Fleisacher](https://anitamf.github.io/)       | [repo](https://github.com/AnitaMF/AnitaMF.github.io)                       | [solutions](https://github.com/AnitaMF/python_assignments.github.io)     |  |  |
+| [Ana Mejia Fleisacher](https://anitamf.github.io/)       | [repo](https://github.com/AnitaMF/AnitaMF.github.io)                       | [solutions](https://github.com/AnitaMF/python_assignments.github.io)     | [Integrated Metagenomics Analysis](https://github.com/AnitaMF/integrated_metagenomics_analysis) |  |
 | [Avital Rosner](https://avitalrosner.github.io/)         | [repo](https://github.com/Avitalrosner/avitalrosner.github.io)             | [solutions](https://github.com/Avitalrosner/Python_course_Assignments)   | [Fat tissue analysis for cfRNA data](https://github.com/Avitalrosner/Fat_tissue_analysis) |  |
 | [Boaz Yaari](https://boaz-y.github.io/)                  | [repo](https://github.com/Boaz-Y/Boaz-Y.github.io)                         | [solutions](https://github.com/Boaz-Y/Solutions)                         |  |  |
 | [Boyue Sun](https://dahaisun.github.io/)                 | [repo](https://github.com/DahaiSun/DahaiSun.github.io)                     | [solutions](https://github.com/DahaiSun/wis_python_course_assignments)   | [Interactive Analysis of Mitochondrial Dispersal in Cells](https://github.com/DahaiSun/Mitochondrial_dispersal_statistics/) |  |
@@ -635,7 +635,14 @@ of computation you do.
     * 21:15 - testing in temporary folders
     * 28:40 - Final project
     * 42:00 - Importing data from web (Scientific Python)
-* [Day 7 part 3](https://youtu.be/TXpKwPLW5sM) - TIMESTAMP MISSING
+* [Day 7 part 3](https://youtu.be/TXpKwPLW5sM)
+    * 00:30 fasta and gene bank formats
+    * 02:40 NCBI introduction
+    * 08:40 API
+    * 11:20 Open Weathermap
+    * 16:59 requests
+    * 22:30 biopython introduction
+    * 32:00 download from NCBI using 'Entrez'
 
 
 Create virtual environment:
@@ -813,9 +820,36 @@ that person try it.
 
 ## Day 9
 
-* [Day 9 part 1](https://youtu.be/_C8ndTZNLTQ) - TIMESTAMP MISSING Refactoring code, Making improvements and adding features
+* [Day 9 part 1](https://youtu.be/_C8ndTZNLTQ) - Refactoring code, Making improvements and adding features
+    * 00:00 - start
+    * 01:20 - notes about the project proposal
+    * 04:00 - explain how to work in generic way at day7 NCBI task
+    * 14:30 - git diffw and more diff data
+    * 20:00 - handling error occurred
+    * 23:30 - print trace to fix error
+    * 27:20 - code works, more checks
+    * 33:40 - checking what happen when we input wrong data
+    * 37:36 - starting day09 work
+    * 40:16 - explain about argparse
+    * 42:50 - modify the code to work with more parameters in a different way
+    * 50:00 - save the files and update readme.md
+    * 52:20 - talk theory about more argument improvements using argparse
+    * 54:50 - end
 * [Day 9 part 2](https://youtu.be/0QkBC0QXclw) - TIMESTAMP MISSING Argparse
-* [Day 9 part 3](https://youtu.be/kNtP8dCTEcE) - TIMESTAMP MISSING Regular Expressions
+* [Day 9 part 3](https://youtu.be/kNtP8dCTEcE) - Regular Expressions
+    * 00:00 Introduction with sys library to access command-line arguments and the re library for regular expression operations.
+    * 07:00 Uses a regular expression to check if the provided argument consists of one or more digits only.
+    * 10:18 digit in a string
+    * 10:53 exactly one character in a string in it is a digit
+    * 12:48 one or more digits in the string and nothing else
+    * 15:10 find unicode digit in arabic
+    * 18:42 wikipedia numerals in unicode
+    * 19:10 one or more unicode digit
+    * 20:00 input validation
+    * 22:00 check if 2 character are the same
+    * 26:17 DNA with regex [1 or more characters]
+    * 33:00 fined the longest sequence
+    * 35:00 Regex DNA web
 
 * Working on the program written by [Thea Meimoun](https://github.com/theammn/assignments) day7 - merge functions
 * [Argparse slides](https://code-maven.com/slides/python/argparse)
@@ -855,9 +889,4 @@ be some simpe feature like the repetition we have.
 Include a `README.md` file and the `requirements.txt` file if necessary.
 
 * Dead-line 2024.06.23 22:00
-
-
-
-
-
 
