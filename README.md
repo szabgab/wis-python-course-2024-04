@@ -890,3 +890,40 @@ Include a `README.md` file and the `requirements.txt` file if necessary.
 
 * Dead-line 2024.06.23 22:00
 
+## Day 10
+
+* [Day 10 part 1](https://youtu.be/eVv-dX-zzGw) - TIMESTAMP MISSING - numpy
+* [Day 10 part 2](https://youtu.be/IWe41ICjxqI) - TIMESTAMP MISSING - numpy
+* [Day 10 part 3](https://youtu.be/MiJzcSJDH1Y) - TIMESTAMP MISSING - pandas, machine learning
+
+
+
+* [Floating pointlimitations](https://code-maven.com/slides/python/floating-point-error)
+* [numpy](https://code-maven.com/slides/python/numpy)
+* [pandas](https://code-maven.com/slides/python/pandas)
+
+* [Stack Overflow](https://stackoverflow.com/)
+
+* [Code Mavens](https://www.meetup.com/code-mavens/) virtual presentations about Python (and other languages) in English.
+* [PyWeb-IL](https://www.meetup.com/pyweb-il/) Python meetings in Hebrew
+* [PyData Meetups](https://www.meetup.com/pydata-tel-aviv/) about Python and data in Hebrew.
+* [PyCon Israel](https://pycon.org.il/)
+* [Python in Israel](https://python.org.il/)
+* [Exercism](https://exercism.org/) to practice programming and get human feedback.
+* [LinkedIn](https://www.linkedin.com/in/szabgab/) social network for jobs.
+
+### Assignment (day 10)
+
+* Make sure you have sent the timestamps for at least one of the videos.
+
+* Dead-line 2024.06.23 22:00
+
+## Project
+
+* Use the repository you created for the project.
+* Once you are done ask another student to check your project **without** telling the students anything about the project. Only give the link to the repo.
+* Fix any issues the student might have.
+* Open an issue letting me know when you are done.
+
+* Dead-line 2024.07.10 22:00
+
