@@ -895,6 +895,12 @@ Include a `README.md` file and the `requirements.txt` file if necessary.
 * [Day 10 part 1](https://youtu.be/eVv-dX-zzGw) - TIMESTAMP MISSING - numpy
 * [Day 10 part 2](https://youtu.be/IWe41ICjxqI) - TIMESTAMP MISSING - numpy
 * [Day 10 part 3](https://youtu.be/MiJzcSJDH1Y) - TIMESTAMP MISSING - pandas, machine learning
+    * 01:07 - Pandas package and usage examples
+    * 05:30 - Additional examples
+    * 15:15 - Machine learning
+    * 16:30 - Iris dataset example for machine learning
+    * 28:00 - Example creation of function to predict values
+    * 32:00 - Implementation in Python code
 
 
 
