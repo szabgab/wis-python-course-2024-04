@@ -507,7 +507,7 @@ python count.py FILENAME
 
 ## Day 5
 
-* [Day 5 part 1](https://youtu.be/BL3yng1JVHQ) - TIMESTAMP MISSING
+* [Day 5 part 1](https://youtu.be/BL3yng1JVHQ) -
     * 00:38 - comments about code
     * 04:30 - Memory (RAM)
     * 13:30 - CPU
@@ -517,7 +517,7 @@ python count.py FILENAME
     * 46:00 - displaying the different methods for importing modules
     * about computers (hard-disk, memory, CPU (cores), GPU)
     * using modules, import
-* [Day 5 part 2](https://youtu.be/mTvvF4TNKJU) - TIMESTAMP MISSING
+* [Day 5 part 2](https://youtu.be/mTvvF4TNKJU) -
     * 00:00 - Introduction to code quality assurance.
     * 10:30 - Intentional bug in custom library; writing a testing program to check for bugs.
     * 12:25 - pytest package: installation and using pytest.assert.
@@ -835,21 +835,33 @@ that person try it.
     * 50:00 - save the files and update readme.md
     * 52:20 - talk theory about more argument improvements using argparse
     * 54:50 - end
-* [Day 9 part 2](https://youtu.be/0QkBC0QXclw) - TIMESTAMP MISSING Argparse
+* [Day 9 part 2](https://youtu.be/0QkBC0QXclw) - Argparse
+    * 00:00 - Explanation about refactoring
+    * 04:40 - Argparse library
+    * 8:30 - The meaning of "--"
+    * 10:15 - Parameters types - location, name
+    * 12:55 - Argparse
+    * 18:43 - Argparse - database number
+    * 23:15 - Add download folder as database in Argparse
+    * 28:57 - Run program with Argparse
+    * 32:00 - Quiet parameter
+    * 40:44 - Argparse - default number
+    * 44:04 - More Argparse manipulations and examples
+    * 48:01 - Argparse database + examples
 * [Day 9 part 3](https://youtu.be/kNtP8dCTEcE) - Regular Expressions
-    * 00:00 Introduction with sys library to access command-line arguments and the re library for regular expression operations.
-    * 07:00 Uses a regular expression to check if the provided argument consists of one or more digits only.
-    * 10:18 digit in a string
-    * 10:53 exactly one character in a string in it is a digit
-    * 12:48 one or more digits in the string and nothing else
-    * 15:10 find unicode digit in arabic
-    * 18:42 wikipedia numerals in unicode
-    * 19:10 one or more unicode digit
-    * 20:00 input validation
-    * 22:00 check if 2 character are the same
-    * 26:17 DNA with regex [1 or more characters]
-    * 33:00 fined the longest sequence
-    * 35:00 Regex DNA web
+    * 00:00 - Introduction with sys library to access command-line arguments and the re library for regular expression operations.
+    * 07:00 - Uses a regular expression to check if the provided argument consists of one or more digits only.
+    * 10:18 - digit in a string
+    * 10:53 - exactly one character in a string in it is a digit
+    * 12:48 - one or more digits in the string and nothing else
+    * 15:10 - find unicode digit in arabic
+    * 18:42 - wikipedia numerals in unicode
+    * 19:10 - one or more unicode digit
+    * 20:00 - input validation
+    * 22:00 - check if 2 character are the same
+    * 26:17 - DNA with regex [1 or more characters]
+    * 33:00 - fined the longest sequence
+    * 35:00 - Regex DNA web
 
 * Working on the program written by [Thea Meimoun](https://github.com/theammn/assignments) day7 - merge functions
 * [Argparse slides](https://code-maven.com/slides/python/argparse)
@@ -892,9 +904,28 @@ Include a `README.md` file and the `requirements.txt` file if necessary.
 
 ## Day 10
 
-* [Day 10 part 1](https://youtu.be/eVv-dX-zzGw) - TIMESTAMP MISSING - numpy
-* [Day 10 part 2](https://youtu.be/IWe41ICjxqI) - TIMESTAMP MISSING - numpy
-* [Day 10 part 3](https://youtu.be/MiJzcSJDH1Y) - TIMESTAMP MISSING - pandas, machine learning
+* [Day 10 part 1](https://youtu.be/eVv-dX-zzGw) - numpy
+    * 00:00 - Students' topics
+    * 04:56 - The role of functions and tests
+    * 11:33 - Code Maven web
+    * 17:05 - NumPy
+    * 19:55 - NumPy value types
+    * 26:40 - NumPy vectors
+    * 38:30 - Floating point limitations
+    * 44:45 - NumPy 2D arrays
+    * 45:20 - NumPy type setting
+    * 49:38 - Stack Overflow
+* [Day 10 part 2](https://youtu.be/IWe41ICjxqI) - numpy
+    * 00:00 - Numpy Array (Random, Copy, Multiply, Casting..)
+    * 07:01 - Numpy Absolute Function - Logical - Fibonacci & Vectorization
+    * 18:40 - Meetup - Python Meeting in Hebrew in TelAviv
+    * 24:19 - python.org.il - Events in Israel - Code Maven Course
+    * 26:05 - Filtering Data
+    * 30:57 - Serialization(Matlab) - saving the data on disk
+    * 35:43 - More Numpy
+    * 37:43 - Exercism - Website to improve programming by picking a language and download exercises, you can submit solution and ask volunteer to comment your solution and get feedbacks on
+    * 42:50 - Linkedin Profile
+* [Day 10 part 3](https://youtu.be/MiJzcSJDH1Y) - pandas, machine learning
     * 01:07 - Pandas package and usage examples
     * 05:30 - Additional examples
     * 15:15 - Machine learning
