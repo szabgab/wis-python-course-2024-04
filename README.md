@@ -409,7 +409,7 @@ git mv
 
 ## Day 4
 
-* [Day 4 part 1](https://youtu.be/PZ8pyhDZmAI) - 
+* [Day 4 part 1](https://youtu.be/PZ8pyhDZmAI)
     * 02:00 About comments in the code
     * 04:20 Example of unnecessary comments
     * 07:00 Following up on committed comments: git blame & git show
